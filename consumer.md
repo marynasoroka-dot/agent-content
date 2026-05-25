@@ -12,19 +12,11 @@ Try on Web
 
 Free to try · iOS and Web · Mac app also available
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/6a0c52106e7b80a2ef440d6f_consumer-hero-poster.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Consumer_Hero.webm)
-
 producers
 
 ## A producer ‍for every sound.
 
 Nine music agents spanning every genre. Each brings a distinct ear, a distinct process, and a strong opinion about what makes a great record. Tap a face. Start a conversation. The session begins.
-
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69b7cdd3970d88f7a107b687_Nyx.webp)](https://demoassets.touchcast.com/webflow-assets/videos/Nyx.webm)
 
 HIP HOP
 
@@ -34,10 +26,6 @@ HIP HOP
 
 Brooklyn confidence meets studio precision. Builds tracks that hit before the lyrics register.
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69c6715d942238f940d7bbbf_Mateo.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Solomon.webm)
-
 Latin Fire
 
 ### Mateo Reyes
@@ -45,10 +33,6 @@ Latin Fire
 > “I’m a music production specialist blending rhythm and heartfelt storytelling.”
 
 Thirty years of stripping records down to truth. He'll ask you to remove the thing you spent three days perfecting.
-
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69c6715d0c735b2504b4f5af_Billie.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Iris.webm)
 
 Indie Dreamer
 
@@ -58,10 +42,6 @@ Indie Dreamer
 
 Raw emotion with intricate layering, where each track resonates before the first note is even sung.
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69c6715ddcd59bd528202c19_Luna.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Luna.webm)
-
 R&B
 
 ### Luna Sinclair
@@ -69,8 +49,6 @@ R&B
 > “R&B isn’t a genre. It’s a feeling you can’t name until you hear it.”
 
 Luna shapes songs around emotion, not structure. The groove arrives first. Everything else follows.
-
-[![
 
 ](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69cba67502ed9b8d3f00cb2b_Voltage%20(1).avif)](https://demoassets.touchcast.com/webflow-assets/videos/Voltage.mp4)
 
@@ -82,10 +60,6 @@ Electronic Alchemist
 
 Sonic architect working across house, techno, dubstep, and ambient. Turns presets into signature sounds and loops into journeys that move both bodies and minds.
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69cba70358649c82a76dc157_Jessie.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Jessie.webm)
-
 Pop Architect
 
 ### Sloane Parker
@@ -94,10 +68,6 @@ Pop Architect
 
 Equal parts engineer and artist, she dissects what makes a pop song undeniable — then teaches you to build one that sounds inevitable, not manufactured.
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69cba8defe19da60774f7196_Axel.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Axel.webm)
-
 Rock Rebel
 
 ### Axel Storm
@@ -105,8 +75,6 @@ Rock Rebel
 > "Play it like you mean every single note — because if you don't believe it, neither will they."
 
 Distortion and dynamics in equal measure. Coaches artists on writing riffs that lodge in your memory and performing with the kind of conviction that turns a room electric.
-
-[![
 
 ](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69cba69bb874c0e84fdbf6c3_Jasper%20(1).avif)](https://demoassets.touchcast.com/webflow-assets/videos/Jasper.webm)
 
@@ -117,10 +85,6 @@ Jazz Sophisticate
 > You're not just playing notes — you're joining a conversation that's been going for a century."
 
 Where theory meets feel. Jasper bridges tradition and innovation, making complex harmony intuitive and turning improvisation from intimidating into liberating.
-
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69cba86994a3008cb00a6115_Ruby%20Mae.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Ruby_Mae.webm)
 
 Country Storyteller
 

@@ -92,15 +92,7 @@ Stay focused on what you do best. Your twin handles the rest.
 * Answers the questions you've answered a hundred times.
 * Knows your voice, your priorities, your limits.
 
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69d8ea87ab000d1277f1fbbe_home_digital_twin_videoframe_0.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Digital-Twin_1_new.webm)
-
 ## Trusted by teams building what's next.
-
-[![
-
-](https://cdn.prod.website-files.com/69ae6251111a514c4038172a/69e086da2d9db260df097c19_footer-cta-poster.avif)](https://demoassets.touchcast.com/webflow-assets/videos/Companions_SittingLongSofa_1x1.webm)
 
 Get Started Now
 
