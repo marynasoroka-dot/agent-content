@@ -3,7 +3,7 @@
 
 ---
 
-# Napster Spaces | Turn Any Website into a Conversation
+# Napster Spaces | AI Website Agents for Businesses
 
 Source: https://www.napster.com/spaces
 
@@ -260,7 +260,7 @@ View works with Napster for Mac, our AI platform with thousands of specialists. 
 
 ---
 
-# Napster Station | AI Browser for the Physical World
+# Napster Station | AI Concierge for Physical Spaces
 
 Source: https://www.napster.com/station
 
@@ -587,7 +587,7 @@ Instant download
 
 ---
 
-# Napster Learn for Enterprise | AI Training & Coaching
+# Napster Learn | AI Training Agents for Enterprise
 
 Source: https://www.napster.com/learn-for-enterprise
 
@@ -668,7 +668,7 @@ Napster Learn works alongside what you already have. No migration. No disruption
 
 ---
 
-# Napster Learn for Higher Education | AI Teaching Companions
+# Napster Learn | AI Teaching Companions for Higher Ed
 
 Source: https://www.napster.com/learn-for-higher-education
 

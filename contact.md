@@ -1,4 +1,4 @@
-# Contact Napster | Sales, Partnerships, and Support
+# Contact Napster | Sales, Partnerships and AI Agent Support
 
 Source: https://www.napster.com/contact
 

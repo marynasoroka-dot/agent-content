@@ -1,4 +1,4 @@
-# Omniagent API | Multimodal AI Agents for Your Applications
+# Omniagent API | Voice, Video and Memory AI Agents
 
 Source: https://www.napster.com/developer
 
@@ -92,7 +92,7 @@ Tool Calling
 
 #### Deploy everywhere.
 
-Embed video agents on any web page with our drop-in Web SDK via WebRTC. For audio-only agents, connect over WebSockets. VoIP and SIP support coming soon for telephony.
+Embed video agents on any web page with our drop-in Web SDK via WebRTC. For audio-only agents, connect over WebSockets. VoIP and SIP for telephony.
 
 Web SDK
 

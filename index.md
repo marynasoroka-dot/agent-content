@@ -1,4 +1,4 @@
-# Napster | AI Experts You Can See and Talk To
+# Napster | Visible AI Agents with Voice, Video and Memory
 
 Source: https://www.napster.com
 
@@ -78,9 +78,7 @@ Learn More
 
 Your Digital Twin
 
-## Be in two
-
-## places at once.
+## Be in two places at once.
 
 Get Napster for Mac
 
@@ -93,6 +91,36 @@ Stay focused on what you do best. Your twin handles the rest.
 * Knows your voice, your priorities, your limits.
 
 ## Trusted by teams building what's next.
+
+Latest News
+
+## Stories worth covering.
+
+More Releases
+
+June 8, 2026
+
+5 min read
+
+### Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
+
+Press Release
+
+June 2, 2026
+
+5 min read
+
+### Napster Partners with Spa Grand Prix to Launch AI Concierge for Formula 1 Fans
+
+Press Release
+
+May 26, 2026
+
+5 min read
+
+### Thunder Studios Forms Originals Division, Names Diana Mejia-Jones Head
+
+Press Release
 
 Get Started Now
 

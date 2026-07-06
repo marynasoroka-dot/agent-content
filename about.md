@@ -1,4 +1,4 @@
-# About Napster | The AI Companion Platform
+# About Napster | The Visible AI Agent Platform
 
 Source: https://www.napster.com/about
 

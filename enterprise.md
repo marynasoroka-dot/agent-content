@@ -1,4 +1,4 @@
-# Napster for Enterprise | AI Agents at Scale, SOC 2 Certified
+# Enterprise AI Agents at Scale | Napster
 
 Source: https://www.napster.com/enterprise
 

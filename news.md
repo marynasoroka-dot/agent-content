@@ -11,6 +11,46 @@ Source: https://www.napster.com/news
 
 The latest news, press releases, and media resources from Napster — the AI-native platform reinventing how people create, connect, and experience media.
 
+Press Release
+
+June 8, 2026
+
+5 min read
+
+### Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
+
+Napster Video Model 2 delivers live, Full HD at 30 FPS video at roughly 20x lower cost than the industry to enable multimodal video agents at scale
+
+Press Release
+
+June 2, 2026
+
+5 min read
+
+### Napster Partners with Spa Grand Prix to Launch AI Concierge for Formula 1 Fans
+
+The experience guides ticket buyers through the full Formula 1 Spa-Francorchamps GP journey, from grandstand views to hospitality packages, in any language
+
+Press Release
+
+May 26, 2026
+
+5 min read
+
+### Thunder Studios Forms Originals Division, Names Diana Mejia-Jones Head
+
+New unit will develop and produce scripted, unscripted, podcasts, and short-form vertical video
+
+Press Release
+
+May 18, 2026
+
+5 min read
+
+### Napster Launches Omniagent API, built with Microsoft Azure
+
+New proxy layer platform transforms AI agents into interactive video companions for just $0.01 per minute, delivering an enterprise-grade solution at a fraction of market cost
+
 Coverage
 
 April 4, 2026
@@ -21,52 +61,44 @@ April 4, 2026
 
 Napster CEO John Acunto explains how the company has been reimagined, shifting focus from traditional music streaming to what they call "streaming intelligence." Watch his full interview on Bloomberg This Weekend with hosts Christina Ruffini and Lisa Mateo.
 
-Press Release
-
-March 3, 2026
-
-5 min read
-
-### Napster debuts AI-powered visitor experience alongside MeetChina at ITB Berlin 2026
-
-The exhibition will showcase how Napster’s AI platform integrates into the MeetChina ecosystem and supports shopping, navigation, and more.
-
-Press Release
-
-February 21, 2026
-
-5 min read
-
-### Napster and IT MediaConsult AG to showcase AI-powered retail solutions at EuroShop 2026
-
-The partnership integrates Napster’s advanced conversational AI technology with ITMediaConsult AG’s robust retail ecosystem.
-
-Press Release
-
-February 18, 2026
-
-5 min read
-
-### Napster partners with Scaling Up to bring AI-powered coaching to the world’s top growth leaders
-
-Scaling Up plans to leverage Napster’s AI platform to train its global network of coaches and offer them easy-to-use AI integrations.
-
-Press Release
-
-February 4, 2026
-
-5 min read
-
-### Napster and Solgari partner to combine video AI omniagents and human service inside Microsoft Teams and Dynamics 365
-
-Napster and Solgari have partnered to create AI Omniagents that integrate with call centers and enable quality customer service at scale.
-
 ## **Press releases**
 
 Perspectives on the future of AI and how it’s shaping work and everyday life.
 
 More Releases
 
+June 8, 2026
+
+5 min read
+
+### Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
+
+Press Release
+
+June 2, 2026
+
+5 min read
+
+### Napster Partners with Spa Grand Prix to Launch AI Concierge for Formula 1 Fans
+
+Press Release
+
+May 26, 2026
+
+5 min read
+
+### Thunder Studios Forms Originals Division, Names Diana Mejia-Jones Head
+
+Press Release
+
+May 18, 2026
+
+5 min read
+
+### Napster Launches Omniagent API, built with Microsoft Azure
+
+Press Release
+
 March 3, 2026
 
 5 min read
@@ -80,38 +112,6 @@ February 21, 2026
 5 min read
 
 ### Napster and IT MediaConsult AG to showcase AI-powered retail solutions at EuroShop 2026
-
-Press Release
-
-February 18, 2026
-
-5 min read
-
-### Napster partners with Scaling Up to bring AI-powered coaching to the world’s top growth leaders
-
-Press Release
-
-February 4, 2026
-
-5 min read
-
-### Napster and Solgari partner to combine video AI omniagents and human service inside Microsoft Teams and Dynamics 365
-
-Press Release
-
-January 28, 2026
-
-5 min read
-
-### Napster unveils new app experience to bring AI creations and video companions to mobile devices
-
-Press Release
-
-January 23, 2026
-
-5 min read
-
-### Napster and Lenovo partner to accelerate digital transformation in Saudi Arabia
 
 Press Release
 
@@ -244,123 +244,29 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 **Read More**
 
-February 12, 2024
+October 22, 2024
 
 5 min read
 
-### Infinite Reality, the global leader in immersive experiences, acquires spatial web pioneer Ethereal Engine
+### The United States Air Force and the Drone Racing League expand talent recruitment efforts with their inaugural drone racing championship event taking flight in 2025
 
-Infinite Reality and Ethereal Engine, a creator of web-first, social immersive experiences, have completed a share-for-share acquisition.
+The DRL U.S. Air Force Miami Invitational slated for February 1, 2025 at loanDepot Park; Tickets on sale on Tuesday, October 22nd at 8 AM ET
 
-May 15, 2025
-
-5 min read
-
-### Napster is back—ready to disrupt AI, commerce, and culture
-
-Infinite Reality to rebrand as Napster Corporation; Launches an AI-powered platform that transforms a traditional website
-
-October 14, 2024
+July 9, 2024
 
 5 min read
 
-### Infinite Reality and Pairpoint to unveil mixed reality experience at GITEX Global in Dubai
+### Infinite Reality closes $350 million investment; acquires Landvault in $450 million deal, valuation soars to $5.1 billion
 
-Infinite Reality to showcase first of its kind AI speech-to-speech avatar sales associate in the Apple Vision Pro
+Infinite Reality announced the $450 million acquisition of Landvault, a tech company specializing in immersive technology and digital twins.
 
-**join us**
-
-## **Need more?** **We’re one email away.**
-
-Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
-
-Headshots & exec photos
-
-**Video & B-roll**
-
-Interview requests
-
-Quotes & comments
-
-Fact-checking
-
-Embargoed briefings
-
-**press@napster.com**
-
-## **Send an inquiry**
-
-
----
-
-# https://www.napster.com/news/napster-and-lenovo-partner-to-accelerate-digital-transformation-in-saudi-arabia
-
-Source: https://www.napster.com/news/napster-and-lenovo-partner-to-accelerate-digital-transformation-in-saudi-arabia
-
-# Napster and Lenovo partner to accelerate digital transformation in Saudi Arabia
-
-Napster and Lenovo's partnership, announced at Lenovo Tech World, will boost AI-driven digital transformation across Saudi Arabia.
-
-This is some text inside of a div block.
-
-This is some text inside of a div block.
-
-## *Technology companies will collaborate to create AI solutions for priority verticals in the region in support of Vision 2030 ambitions*
-
-**RIYADH — January 23, 2026** — **Napster**, an innovation company powering the next generation of embodied and agentic AI, and global technology powerhouse, **Lenovo**, announced a partnership during **Lenovo Tech World** in Riyadh. This collaboration is designed to scale immersive enterprise technology leveraging the TruScale services of Lenovo and accelerate AI-driven digital transformation across the Kingdom of Saudi Arabia (KSA).
-
-Through this partnership, Napster and Lenovo will collaborate on hosting Napster in Saudi Arabia and leveraging Lenovo TruScale to expand its next-generation platform in the Kingdom in a secure and resilient way. Both organizations agree to work together on building solutions that meet local market demand and regulations.
-
-"Our partnership with Lenovo is a critical opportunity to support the ongoing growth of AI initiatives in Saudi Arabia at a scale we otherwise couldn’t reach," said Samuel Huber, CEO of MENA for Napster. "By integrating our agentic AI technologies with Lenovo’s TruScale services in the country of Saudi Arabia, we are able to support the country’s goal to become a major player in the AI race and support local clients across the public and private sector. This collaboration ensures that the Kingdom’s largest enterprises can embrace responsive, agentic AI."
-
-"We are pleased to welcome Napster into our Solutions & Services Portfolio as we expand our footprint in the Kingdom," said Saeed Basweidan, GM Saudi Arabia, Solutions and Services Group, Lenovo. "By combining Napster’s technologies to our Advanced AI Services, this partnership opens new possibilities for customers in sectors such as education, entertainment, retail, healthcare, and government helping organizations enhance digital engagement, accelerate innovation, and deliver richer, more interactive experiences.”
-
-They key components of the partnership include:
-
-* **TruScale and Local Cloud Deployment**: Lenovo will provide its hardware to build the cloud infrastructure required to support Napster AI deployments on TruScale. This initiative will establish Napster as one of the first companies to utilize a local KSA cloud, providing a significant advantage in data sovereignty and performance.
-* **Joint Go-To-Market**: Napster and Lenovo will collaborate on a unified go‑to‑market strategy that enables co‑selling, and integrated solution offerings tailored for key sectors such as education, healthcare, and government across the Kingdom.
-
-This announcement marks a major milestone in Napster's expansion within the MENA region, following a recent strategic agreement with **Takamol Holding**.
-
-###
-
-**About Napster**Founded on the principle of democratizing access—first to music in 1999, now to creative expertise in 2025—Napster has consistently been at the forefront of transformational technology shifts that expand markets and empower users. The company’s latest platform turns passive consumers into active creators, providing the interface layer between foundation AI models and human creativity. For more information, visit napster.ai.
-
-**About Lenovo**Lenovo is a US$69 billion revenue global technology powerhouse, ranked #196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY). To find out more visit https://www.lenovo.com, and read about the latest news via our StoryHub.
-
-**Contact**press@napster.com
-
-Share article:
-
-## **Related posts**
-
-Stay up to date with the latest platform updates, feature launches, and important news.
-
-**Read More**
-
-October 1, 2024
+March 25, 2025
 
 5 min read
 
-### Infinite Reality to secure majority stake in Super League with proposed capital commitment and asset transfer
+### Infinite Reality acquires iconic music service Napster
 
-DRL, Thunder Studios, Fearless Media, and TalentX to join Super League in deal with Infinite Reality
-
-April 5, 2024
-
-5 min read
-
-### Infinite Reality and Vodafone showcase AI-Onboard, a revolutionary automotive onboarding service, at Mobile World Congress, part of ongoing strategic partnership
-
-Infinite Reality and Vodafone showcased its groundbreaking automotive OEM onboarding service, AI-Onboard, at the Mobile World Congress 2024.
-
-April 16, 2024
-
-5 min read
-
-### Infinite Reality, the global leader in immersive experiences, strengthens team with acquisition of cutting-edge social sports platform stakes
-
-Infinite Reality and Stakes announced that the two companies have completed a share-for-share acquisition.
+In the $207 million deal, iR will expand and reimagine Napster, empowering artists with new monetization and engagement capabilities
 
 **join us**
 
@@ -449,29 +355,29 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 **Read More**
 
-June 4, 2024
+August 26, 2025
 
 5 min read
 
-### Infinite Reality acquires Action Face, custom 3-D avatar creator, to bring more personalization to immersive experiences
+### Napster partners with Fenerbahçe SK to launch 3D, AI-powered virtual store for its millions of global fans—exclusively through Fenerium
 
-Infinite Reality announced the acquisition of Action Face, Inc., an AI-powered avatar creation platform.
+Napster Partners with Fenerbahçe SK to Launch 3D, AI-Powered Virtual Store For Its Millions of Global Fans
 
-January 23, 2025
-
-5 min read
-
-### Infinite Reality enters into definitive agreement to acquire virtual shopping platform Obsess
-
-Infinite Reality today announced it has entered into a definitive agreement to acquire Obsess, a premier virtual shopping platform.
-
-March 25, 2025
+February 12, 2024
 
 5 min read
 
-### Infinite Reality acquires iconic music service Napster
+### Infinite Reality, the global leader in immersive experiences, acquires spatial web pioneer Ethereal Engine
 
-In the $207 million deal, iR will expand and reimagine Napster, empowering artists with new monetization and engagement capabilities
+Infinite Reality and Ethereal Engine, a creator of web-first, social immersive experiences, have completed a share-for-share acquisition.
+
+May 3, 2024
+
+5 min read
+
+### Infinite Reality’s SPAC partner engages BTIG as capital markets advisor; continues to drive robust expansion and strengthened market position
+
+Infinite Reality and Newbury Street Acquisition Corporation has engaged BTIG as its capital markets advisor.
 
 **join us**
 
@@ -562,29 +468,224 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 **Read More**
 
-June 11, 2025
+February 4, 2026
 
 5 min read
 
-### SL Benfica launches first-ever immersive store with AI concierge powered by Infinite Reality
+### Napster and Solgari partner to combine video AI omniagents and human service inside Microsoft Teams and Dynamics 365
 
-SL Benfica Launches First-Ever Immersive Store with AI Concierge Powered by Infinite Reality
+Napster and Solgari have partnered to create AI Omniagents that integrate with call centers and enable quality customer service at scale.
 
-September 24, 2024
-
-5 min read
-
-### Dubai's Vision 2030: what is it?
-
-Dubai's Vision 2030 is an initiative to transform the city into a global leader in innovation, sustainability, and digital transformation.
-
-December 17, 2024
+April 16, 2024
 
 5 min read
 
-### Infinite Reality launches immersive digital twin for DMCC’s Crypto Centre in Dubai
+### Infinite Reality, the global leader in immersive experiences, strengthens team with acquisition of cutting-edge social sports platform stakes
 
-Infinite Reality (iR)™ announced today the launch of the DMCC Crypto Centre virtual experience.
+Infinite Reality and Stakes announced that the two companies have completed a share-for-share acquisition.
+
+November 19, 2025
+
+5 min read
+
+### Napster partners with Takamol Holding to accelerate AI and digital transformation in Saudi Arabia
+
+Napster and Takamol Holding partner to bring advanced AI and immersive digital experiences to Saudi Arabia.
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
+---
+
+# https://www.napster.com/news/napster-launches-nv2-realtime-conversational-ai-video-that-costs-just-one-cent-per-minute
+
+Source: https://www.napster.com/news/napster-launches-nv2-realtime-conversational-ai-video-that-costs-just-one-cent-per-minute
+
+# Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
+
+Napster Video Model 2 delivers live, Full HD at 30 FPS video at roughly 20x lower cost than the industry to enable multimodal video agents at scale
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
+
+**NEW YORK, June 8, 2026 —** **Napster**, a frontier AI company powering the next generation of embodied and agentic AI, today launched **NV2 (Napster Video Model 2)**, a real-time conversational video model. Available through the **Napster Omniagent API**, NV2 ends the glorified demo era of multimodal video agents by making embodied AI coworkers accessible to businesses of every size, all at a sustainable cost.
+
+As part of the industry’s path toward intelligence that is too cheap to meter, NV2 enables the coworker agent era to begin. This technology transforms agents into true partners: synthetic coworkers capable of engaging with clients and executing complex tasks to seamlessly extend a company's workforce.
+
+Until now, the cost of multimodal agentic video has prevented it from reaching the millions of consumers and employees it was meant for. Leveraging an AI-enabled real-time voice and video agent costs as much as employing a person to do the same job when the interaction is multimodal. That price is prohibitive to deployment at any meaningful scale, let alone an understaffed small business that would benefit most from an AI concierge or coworker.
+
+“Unmetered intelligence requires an unmetered interface. With NV2 at one cent per minute, real-time conversational video stops being a feature companies ration and becomes the way people meet AI,” said John Acunto, CEO of Napster. “Our goal is to help every business, from a small startup to a global enterprise, give its customers a presence they want to talk to and its employees the resources to do better work. To allow them to learn from all of that data and consistently improve every aspect of the future of their business. That learning starts with the most frictionless form of communications made possible by NV2 as an enabler at scale.”
+
+NV2, now the industry's most robust and scalably priced live generative video model, enables anyone to build multimodal agents that meet users on their own terms. Deploying an Omniagent is one prompt away for any website or digital system online, in apps or even in physical locations through a broad range of Napster offerings. Priced at $0.01 per minute, NV2 runs more than an order of magnitude below leading realtime conversational video APIs, and over 20 times below their full-mode tiers. NV2 also runs live, in Full HD at 30 frames per second, and supports two-way conversations without a lengthy integration process or the need to commit to a hosted or non-hosted model.
+
+Gartner projects that 40 percent of enterprise applications will integrate task-specific AI agents by the end of 2026, up from less than 5 percent in 2025. Improvement to modality, however, has been much slower, with most of those agents still meeting people through a text box or a call center. NV2 gives them a face and a voice that runs inside the same applications teams already work in. And at one cent per minute, companies no longer have to decide which interactions are worth a human presence.
+
+The Napster Omniagent API powered by the NV2 model will unlock this new modality at scale while also supporting text, audio only, call center and other integrations, all through one API with persistent agents that meet end users on their terms.
+
+“What DeepSeek did to the frontier LLM labs, NV2 does to live generative video. The premise is simple: Until the cost of multimodal agentic video collapses, it stays a glorified demo — never reaching the millions it was meant for,” said Edo Segal, Chief Technology Officer at Napster. “NV2 breaks that ceiling with the industry's most robust and scalably priced live generative video model, ushering in an era where multimodal agents meet humanity on its own terms.”
+
+NV2 follows the May release of the Omniagent API and Napster’s rollout of the first agentic AI concierge in motorsport ticketing with Spa Grand Prix.
+
+For more information, visit napster.com. Developers can see the model and get started at napster.com/developer.
+
+###
+
+**About Napster**   
+Founded on the principle of democratizing access—first to music in 1999, now to creative expertise in 2025—Napster has consistently been at the forefront of transformational technology shifts that expand markets and empower users. The company's latest platform turns passive consumers into active creators, providing the interface layer between foundation AI models and human creativity. For more information, visit napster.com**.**
+
+**Media Contact**: press@napster.com
+
+Share article:
+
+## **Related posts**
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+**Read More**
+
+February 12, 2024
+
+5 min read
+
+### Infinite Reality, the global leader in immersive experiences, acquires spatial web pioneer Ethereal Engine
+
+Infinite Reality and Ethereal Engine, a creator of web-first, social immersive experiences, have completed a share-for-share acquisition.
+
+April 2, 2025
+
+5 min read
+
+### Infinite Reality now available on Google Cloud Marketplace; scaling access to immersive 3D experiences for business of all sizes
+
+Infinite Reality is now available on Google Cloud Marketplace
+
+January 23, 2025
+
+5 min read
+
+### Infinite Reality enters into definitive agreement to acquire virtual shopping platform Obsess
+
+Infinite Reality today announced it has entered into a definitive agreement to acquire Obsess, a premier virtual shopping platform.
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
+---
+
+# https://www.napster.com/news/napster-launches-omniagent-api-that-embodies-ai-agents-built-with-microsoft-azure
+
+Source: https://www.napster.com/news/napster-launches-omniagent-api-that-embodies-ai-agents-built-with-microsoft-azure
+
+# Napster Launches Omniagent API, built with Microsoft Azure
+
+New proxy layer platform transforms AI agents into interactive video companions for just $0.01 per minute, delivering an enterprise-grade solution at a fraction of market cost
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
+
+**NEW YORK — May 18, 2026 —** **Napster**, an innovation company powering the next generation of embodied and agentic AI, today announced the launch of **Omniagent API**. Launching exclusively with Microsoft, this new tool is available directly via the Microsoft Azure Portal as an Azure Native Solution, allowing developers to instantly transform existing AI agents into fully multimodal, interactive video agents through a simple proxy API.
+
+As the demand for interactive AI agents grows, developers often face significant barriers such as high latency, complex implementations and prohibitive costs when adding video avatars to existing AI agents. Omniagent API solves this by functioning as a lightweight proxy layer. It sits on top of existing real-time infrastructure using Microsoft Foundry adding video agents without altering the underlying code or increasing latency.
+
+“Omniagent API simplifies the process of enhancing AI agents, making it faster and more cost‑effective to add rich, video‑based capabilities,” said John Acunto, CEO of Napster. “Our approach gives every Microsoft Azure customer and partner the opportunity to deploy embodied AI agents at scale, break away from text prompts, and introduce conversational agents to improve everything from customer service to interna workflows.”
+
+Omniagent API allows developers to choose between uniquely generated or customized avatars based on a single image. There’s also the option of producing digital twins to embody AI agents. This launch reinforces Napster’s partnership with Microsoft, leveraging the security and scalability of the Azure cloud to power the next-generation agentic AI applications.
+
+"Our customers are building some of the most ambitious AI deployments in the world, and offering an easily enabled embodied AI layer will take those projects even further," said **Balan Subramanian, General Manager, Foundry Apps and Agents Platform Services** at Microsoft. "Napster's Omniagent API gives developers a practical path to video-enabled agents without starting from scratch. That kind of low-friction, high-impact capability is exactly what we want to bring into our ecosystem."
+
+**Key features of Omniagent API include:**
+
+**- Affordable Pricing:** At just **$0.01 per minute**, Omniagent API scales to many more use cases than current competitors, making live video agents a viable reality for ubiquitous deployments.
+
+**- Hosted Mode:** Omniagent API also offers a fully hosted mode with Azure GPT-realtime hosted for an even more streamlined implementation
+
+**- Seamless Integration:** As an Azure Native Solution, it’s natively available on  Azure Portal, enabling developers to convert existing agents into video agents in under an hour while retaining full control of their AI operations.
+
+**- Scalable Architecture:** Designed for high-volume sectors such as customer support, automotive, mobility, and financial services, the API allows organizations to transition from text-based chatbots to human-centric video interactions with minimal complexity.
+
+Omniagent API is available now for Microsoft Azure customers directly through the Azure Portal. For partnership inquiries, email **partners@napster.com**.
+
+###
+
+**About Napster**  
+Founded on the principle of democratizing access—first to music in 1999, now to creative expertise in 2025—Napster has consistently been at the forefront of transformational technology shifts that expand markets and empower users. The company’s latest platform turns passive consumers into active creators, providing the interface layer between foundation AI models and human creativity. For more information, visit napster.com.
+
+**Media Contact**   
+press@napster.com
+
+Share article:
+
+## **Related posts**
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+**Read More**
+
+October 22, 2024
+
+5 min read
+
+### The United States Air Force and the Drone Racing League expand talent recruitment efforts with their inaugural drone racing championship event taking flight in 2025
+
+The DRL U.S. Air Force Miami Invitational slated for February 1, 2025 at loanDepot Park; Tickets on sale on Tuesday, October 22nd at 8 AM ET
+
+October 17, 2024
+
+5 min read
+
+### UAE Ministry of Finance partners with Infinite Reality to spearhead the creation and adoption of immersive environments
+
+Partnership demonstrates how custom digital twin technologies can enhance organizational preparedness, employee education, and more.
+
+May 3, 2024
+
+5 min read
+
+### Infinite Reality’s SPAC partner engages BTIG as capital markets advisor; continues to drive robust expansion and strengthened market position
+
+Infinite Reality and Newbury Street Acquisition Corporation has engaged BTIG as its capital markets advisor.
 
 **join us**
 
@@ -665,29 +766,121 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 **Read More**
 
-February 12, 2024
+October 1, 2025
 
 5 min read
 
-### Infinite Reality, the global leader in immersive experiences, acquires spatial web pioneer Ethereal Engine
+### Bondi Sands launches immersive beach experience with Napster
 
-Infinite Reality and Ethereal Engine, a creator of web-first, social immersive experiences, have completed a share-for-share acquisition.
+Australian self tan, suncare and skincare brand uses gamification and storytelling to deepen engagement with Gen Z
 
-January 23, 2025
-
-5 min read
-
-### Infinite Reality enters into definitive agreement to acquire virtual shopping platform Obsess
-
-Infinite Reality today announced it has entered into a definitive agreement to acquire Obsess, a premier virtual shopping platform.
-
-January 28, 2026
+June 8, 2026
 
 5 min read
 
-### Napster unveils new app experience to bring AI creations and video companions to mobile devices
+### Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
 
-Representing a new era for Napster, the Napster App is leaning into the future: A universe of adaptive, AI-driven experiences built by fans.
+Napster Video Model 2 delivers live, Full HD at 30 FPS video at roughly 20x lower cost than the industry to enable multimodal video agents at scale
+
+October 17, 2025
+
+5 min read
+
+### Automotive leader WYZ Group partners with Napster Corp. to launch AI agent for new tyre diagnostics solution
+
+WYZ Group Partners with Napster Corp. to launch AI agent for new tyre diagnostics solution
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
+---
+
+# https://www.napster.com/news/napster-partners-with-spa-grand-prix-to-launch-ai-concierge-for-formula-1-fans
+
+Source: https://www.napster.com/news/napster-partners-with-spa-grand-prix-to-launch-ai-concierge-for-formula-1-fans
+
+# Napster Partners with Spa Grand Prix to Launch AI Concierge for Formula 1 Fans
+
+The experience guides ticket buyers through the full Formula 1 Spa-Francorchamps GP journey, from grandstand views to hospitality packages, in any language
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
+
+**NEW YORK and STAVELOT, BELGIUM — June 2, 2026 —** **Napster**, an innovation company powering the next generation of embodied and agentic AI, today announced a partnership with **Spa Grand Prix**, marking one of the first deployments of agentic AI in live motorsport ticketing. The multi-year collaboration, which kicks off with support for the Belgian Grand Prix from July 17-19, brings an AI concierge named Jack to spagrandprix.com that will give fans worldwide a one-on-one guide to tickets, hospitality, and event planning around one of the most anticipated weekends on the F1 calendar.
+
+Live events are emerging as the next frontier for agentic AI in commerce. International audiences, complex ticket structures, and high-consideration purchases have left a persistent gap between the convenience of buying online and the expert guidance fans get in person. Organizers like Spa Grand Prix are closing that gap to gain a competitive advantage, with tools such as Napster Omniagent API enabling them to enhance the buying experience with the customization and flexibility an API allows.
+
+Jack is trained on and integrated directly into the event's ticketing system. Fans can ask questions in any language, 24 hours a day, and receive recommendations based on budget and preferences, including venue access options, accommodations, and parking, as well as hospitality packages and access tiers.
+
+"Buying a ticket to an F1 race weekend is one of the biggest purchases a fan will make all year, and most websites still ask them to make that decision blind, especially to first-time comers," said John Acunto, CEO of Napster. "Jack changes the equation. Fans get a knowledgeable guide who can show them what they are actually buying and answer the questions they would normally save for a human agent. That is what agentic AI should do for live events."
+
+Jack can also pull up the circuit map, show fans exactly where each seat type is located, and display 360-degree images of the view from any grandstand or VIP area, so a buyer weighing two categories can see both perspectives before adding items to their cart. The integration is part of Spa Grand Prix’s consistent efforts to innovate and keep the race, now in its 101st year, accessible for modern fans.
+
+"Our fans come to Spa from every corner of the world, and they deserve a customer experience that gives them as much information and assistance as possible," said Vanessa Maes, CEO of Spa Grand Prix. "Jack lets every visitor explore the circuit, picture themselves in the stands, and find the package that fits, in their own language. That means we can give a personal level of attention to thousands of fans at once, without losing the human touch that makes a Spa weekend what it is."
+
+Fans can meet Jack, check out the track, and purchase tickets now at spagrandprix.com ahead of the Belgian Grand Prix and other upcoming races. For additional information on Napster’s AI solutions, visit napster.com.
+
+**About Napster**   
+Founded on the principle of democratizing access—first to music in 1999, now to creative expertise in 2025—Napster has consistently been at the forefront of transformational technology shifts that expand markets and empower users. The company's latest platform turns passive consumers into active creators, providing the interface layer between foundation AI models and human creativity. For more information, visit napster.com**.**
+
+**About Spa Grand Prix**   
+Spa Grand Prix is the official promoter of the Formula 1 Belgian Grand Prix at Circuit de Spa-Francorchamps, one of the most iconic and historic circuits in motorsport. The company oversees the organisation, promotion, ticketing, hospitality, partnerships, and fan experience of the event, while contributing to the international visibility and attractiveness of Wallonia and Belgium through one of the country’s most prestigious sporting events.
+
+**Media Contact**  
+press@napster.com
+
+Share article:
+
+## **Related posts**
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+**Read More**
+
+April 16, 2024
+
+5 min read
+
+### Infinite Reality, the global leader in immersive experiences, strengthens team with acquisition of cutting-edge social sports platform stakes
+
+Infinite Reality and Stakes announced that the two companies have completed a share-for-share acquisition.
+
+February 4, 2026
+
+5 min read
+
+### Napster and Solgari partner to combine video AI omniagents and human service inside Microsoft Teams and Dynamics 365
+
+Napster and Solgari have partnered to create AI Omniagents that integrate with call centers and enable quality customer service at scale.
+
+October 20, 2025
+
+5 min read
+
+### Napster Lights Up a New Era with Napster 26 Platform and “View” Holographic AI Device
+
+Today, Napster Corporation announced Napster 26 for Mac, the infrastructure for a new era of human creativity
 
 **join us**
 
@@ -775,29 +968,120 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 **Read More**
 
-April 18, 2024
+October 1, 2024
 
 5 min read
 
-### Infinite Reality appoints seasoned marketing technology executive Karina Kogan as chief marketing officer
+### Infinite Reality to secure majority stake in Super League with proposed capital commitment and asset transfer
 
-Infinite Reality announced the appointment of Karina Kogan as Chief Marketing Officer.
+DRL, Thunder Studios, Fearless Media, and TalentX to join Super League in deal with Infinite Reality
 
-July 9, 2024
-
-5 min read
-
-### Infinite Reality closes $350 million investment; acquires Landvault in $450 million deal, valuation soars to $5.1 billion
-
-Infinite Reality announced the $450 million acquisition of Landvault, a tech company specializing in immersive technology and digital twins.
-
-February 10, 2025
+February 1, 2024
 
 5 min read
 
-### Laura Mercier launches luxury beauty experience for Apple Vision Pro with Obsess, an Infinite Reality™ company
+### Producer Mark Canton joins Infinite Reality as chief creative consultant and chairman of entertainment advisory board
 
-New visionOS App Features 3D Product Unboxing; Transporting Visitors to Immersive Laura Mercier Boutiques in New York and Paris
+Producer Mark Canton Joins Infinite Reality as Chief Creative Consultant and Chairman of Entertainment Advisory Board
+
+December 17, 2024
+
+5 min read
+
+### Infinite Reality launches immersive digital twin for DMCC’s Crypto Centre in Dubai
+
+Infinite Reality (iR)™ announced today the launch of the DMCC Crypto Centre virtual experience.
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
+---
+
+# https://www.napster.com/news/thunder-studios-forms-originals-division-names-diana-mejia-jones-head
+
+Source: https://www.napster.com/news/thunder-studios-forms-originals-division-names-diana-mejia-jones-head
+
+# Thunder Studios Forms Originals Division, Names Diana Mejia-Jones Head
+
+New unit will develop and produce scripted, unscripted, podcasts, and short-form vertical video
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
+
+**LONG BEACH, Calif., May 26, 2026** – Thunder Studios today launched Thunder Originals, a new division that will develop and produce content across scripted series, unscripted programming, podcasts, and short-form vertical video. In addition, Diana Mejia-Jones joins as Head of Thunder Originals to lead this new initiative. Thunder Studios is owned by **Napster**, an innovation company powering the next generation of embodied and agentic AI.
+
+The division will operate on a co-production model, pairing Thunder's production infrastructure and virtual production stages with external creative and financing partners. Programming will run across linear, streaming, social, and emerging distribution platforms.
+
+“Diana has the development instincts and platform relationships to build Originals into a meaningful business for us,” said Rolando Nichols, President of Thunder Studios. “Our facilities and virtual production capabilities are a structural advantage. The opportunity is to put both behind original IP we own and control.”
+
+Mejia-Jones joins Thunder from Campanario Entertainment, where she served as Senior Vice President of Development. In that role she oversaw scripted and unscripted projects for Netflix, Amazon Prime Video, ViX, Bravo, Telemundo, and TelevisaUnivision. Her executive producer credits include ViX's Profe Infiltrado, Netflix's La Flor Más Bella, and Amazon Prime Video's Cómo Sobrevivir Soltero. She also developed Netflix's Selena: The Series and Bravo's Mexican Dynasties. Over a 20-plus year career, she has secured more than $75 million in sponsorship, endorsement, licensing, and brand integration partnerships.
+
+“Thunder has the production capabilities most studios are still trying to build,” said Mejia-Jones. “Pairing that with a focused slate across scripted, unscripted, podcasts, and short-form gives us flexibility to develop each idea in the right format for the right audience.”
+
+Thunder Originals will announce its initial slate later this year.
+
+###
+
+**About Thunder Studios**
+
+Twenty minutes from LAX and ten minutes from the beach, Napster-owned Thunder Studios is an award winning, fully-integrated entertainment services, production, and broadcasting company. Thunder Studios’ 150,000 square foot production studio includes 14 sound stages, an +8K resolution XR (Extended Reality) video wall and environment which allows for the creation of any imaginable setting, a dedicated esports arena, a motion and volumetric capture stage, a news broadcast stage and master control room, a full suite of broadcasting and production equipment, and a fleet of mobile broadcast trucks. Thunder Studios is one of the largest independent production studios in the country and works collaboratively with Napster’s expert Innovation team to develop immersive experiences including live event virtualization and remote collaboration tools. Thunder Studios is committed to consistently delivering exceptional content that drives the media industry forward. For more information about Thunder Studios and its award-winning projects, please visit thunderstudios.com.
+
+**Contact**
+
+press@napster.com
+
+Share article:
+
+## **Related posts**
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+**Read More**
+
+February 12, 2024
+
+5 min read
+
+### Infinite Reality, the global leader in immersive experiences, acquires spatial web pioneer Ethereal Engine
+
+Infinite Reality and Ethereal Engine, a creator of web-first, social immersive experiences, have completed a share-for-share acquisition.
+
+May 15, 2025
+
+5 min read
+
+### Napster is back—ready to disrupt AI, commerce, and culture
+
+Infinite Reality to rebrand as Napster Corporation; Launches an AI-powered platform that transforms a traditional website
+
+May 9, 2024
+
+5 min read
+
+### Introducing the FIM SGP-VERSE: fans to experience FIM Speedway GP like never before with launch of new iOS immersive experience
+
+Infinite Reality and FIM Speedway GP pioneer the world’s first socially interactive and fully immersive speedway experience.
 
 **join us**
 
@@ -931,6 +1215,129 @@ Embargoed briefings
 
 ---
 
+# https://www.napster.com/news-type/press-release?76dc7671_page=2
+
+Source: https://www.napster.com/news-type/press-release?76dc7671_page=2
+
+# Press Release
+
+The latest announcements, press coverage, and media resources for journalists and partners.
+
+Press Release
+
+January 23, 2026
+
+5 min read
+
+### Napster and Lenovo partner to accelerate digital transformation in Saudi Arabia
+
+Napster and Lenovo's partnership, announced at Lenovo Tech World, will boost AI-driven digital transformation across Saudi Arabia.
+
+Press Release
+
+December 30, 2025
+
+5 min read
+
+### Napster launches Napster Station: the first AI concierge built to provide personalized service in crowded spaces
+
+Napster today announced Napster Station, the first AI concierge kiosk designed to perform in noisy, high-traffic environments.
+
+Press Release
+
+December 17, 2025
+
+5 min read
+
+### Napster and Global Objects partner to bring high-fidelity digital twins to AI-powered commerce
+
+The partnership enables retailers to populate immersive storefronts with photorealistic merchandise alongside AI agents.
+
+Press Release
+
+December 10, 2025
+
+5 min read
+
+### Napster partners with Comex Group (PPG) to provide hyperpersonalized experience for customers
+
+Partnership with Comex Group (PPG) leverages Napster’s agentic AI to bridge the gap between digital convenience and in-store expertise.
+
+Press Release
+
+November 19, 2025
+
+5 min read
+
+### Napster partners with Takamol Holding to accelerate AI and digital transformation in Saudi Arabia
+
+Napster and Takamol Holding partner to bring advanced AI and immersive digital experiences to Saudi Arabia.
+
+Press Release
+
+November 5, 2025
+
+5 min read
+
+### Napster among first Microsoft partners to deploy Azure agentic AI for enterprises
+
+Napster partners with Microsoft Azure to deliver enterprise-grade agentic AI, powering Cooper Parry’s next-gen coaching innovation.
+
+Press Release
+
+October 20, 2025
+
+5 min read
+
+### Napster Lights Up a New Era with Napster 26 Platform and “View” Holographic AI Device
+
+Today, Napster Corporation announced Napster 26 for Mac, the infrastructure for a new era of human creativity
+
+Press Release
+
+October 17, 2025
+
+5 min read
+
+### Automotive leader WYZ Group partners with Napster Corp. to launch AI agent for new tyre diagnostics solution
+
+WYZ Group Partners with Napster Corp. to launch AI agent for new tyre diagnostics solution
+
+Press Release
+
+October 1, 2025
+
+5 min read
+
+### Bondi Sands launches immersive beach experience with Napster
+
+Australian self tan, suncare and skincare brand uses gamification and storytelling to deepen engagement with Gen Z
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
+---
+
 # https://www.napster.com/news-type/press-release
 
 Source: https://www.napster.com/news-type/press-release
@@ -938,6 +1345,46 @@ Source: https://www.napster.com/news-type/press-release
 # Press Release
 
 The latest announcements, press coverage, and media resources for journalists and partners.
+
+Press Release
+
+June 8, 2026
+
+5 min read
+
+### Napster Launches NV2: A Real-Time Conversational Video Model That Democratizes Access To Multimodal Agents
+
+Napster Video Model 2 delivers live, Full HD at 30 FPS video at roughly 20x lower cost than the industry to enable multimodal video agents at scale
+
+Press Release
+
+June 2, 2026
+
+5 min read
+
+### Napster Partners with Spa Grand Prix to Launch AI Concierge for Formula 1 Fans
+
+The experience guides ticket buyers through the full Formula 1 Spa-Francorchamps GP journey, from grandstand views to hospitality packages, in any language
+
+Press Release
+
+May 26, 2026
+
+5 min read
+
+### Thunder Studios Forms Originals Division, Names Diana Mejia-Jones Head
+
+New unit will develop and produce scripted, unscripted, podcasts, and short-form vertical video
+
+Press Release
+
+May 18, 2026
+
+5 min read
+
+### Napster Launches Omniagent API, built with Microsoft Azure
+
+New proxy layer platform transforms AI agents into interactive video companions for just $0.01 per minute, delivering an enterprise-grade solution at a fraction of market cost
 
 Press Release
 
@@ -988,46 +1435,6 @@ January 28, 2026
 ### Napster unveils new app experience to bring AI creations and video companions to mobile devices
 
 Representing a new era for Napster, the Napster App is leaning into the future: A universe of adaptive, AI-driven experiences built by fans.
-
-Press Release
-
-January 23, 2026
-
-5 min read
-
-### Napster and Lenovo partner to accelerate digital transformation in Saudi Arabia
-
-Napster and Lenovo's partnership, announced at Lenovo Tech World, will boost AI-driven digital transformation across Saudi Arabia.
-
-Press Release
-
-December 30, 2025
-
-5 min read
-
-### Napster launches Napster Station: the first AI concierge built to provide personalized service in crowded spaces
-
-Napster today announced Napster Station, the first AI concierge kiosk designed to perform in noisy, high-traffic environments.
-
-Press Release
-
-December 17, 2025
-
-5 min read
-
-### Napster and Global Objects partner to bring high-fidelity digital twins to AI-powered commerce
-
-The partnership enables retailers to populate immersive storefronts with photorealistic merchandise alongside AI agents.
-
-Press Release
-
-December 10, 2025
-
-5 min read
-
-### Napster partners with Comex Group (PPG) to provide hyperpersonalized experience for customers
-
-Partnership with Comex Group (PPG) leverages Napster’s agentic AI to bridge the gap between digital convenience and in-store expertise.
 
 **join us**
 

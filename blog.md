@@ -13,9 +13,53 @@ News, ideas, and perspectives from the people and partners building the future o
 
 May 18, 2026
 
+### Napster Hackathon Winners: Meet the builders who showed us what's next
+
+Over 100 developers. Three weeks. One API. These are the four who stood out.
+
+May 18, 2026
+
+### Napster heads to Microsoft's Geek Academy
+
+One of the first steps in our developer community advocacy program is now live with Microsoft.
+
+May 18, 2026
+
 ### Napster Heads to Microsoft Build with Omniagent API, a Multimodal Embodied Layer for Any LLM
 
 Plus: A global hackathon, a booth at Fort Mason, and product demos that show what comes next
+
+April 4, 2026
+
+### A Team of One: How to Build Your Own Crew With AI
+
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have to fill new functions.
+
+April 1, 2026
+
+### How to Use AI to Think Bigger, Not Just Work Faster
+
+The best uses of AI tools to not only check boxes but level up human ingenuity and help people achieve more.
+
+Browse by Topic
+
+All
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+March 25, 2026
+
+### From Doing to Deciding: Your New Job Description in the Age of AI
+
+This edition of the Orange Pill blog series focuses on a shift that will touch every professional: the move from execution to judgment.
+
+March 17, 2026
+
+### Filling Space: How AI Can Act as a Creative Catalyst
+
+The most difficult part of writing is almost always the beginning, and AI can help you overcome that and much more.
 
 January 21, 2026
 
@@ -41,14 +85,6 @@ December 30, 2025
 
 In the past year, AI has gone from a static tool to a companion users can collaborate with.
 
-Browse by Topic
-
-All
-
-Thank you! Your submission has been received!
-
-Oops! Something went wrong while submitting the form.
-
 December 15, 2025
 
 ### AI agents assist in Cyber Week 2025 shopping surge
@@ -64,6 +100,65 @@ This holiday season, Napster View lands at Best Buy: a $99 3D holographic displa
 December 5, 2025
 
 ### How Napster’s 2025 holiday gift guide is hoping to solve retail’s biggest headaches
+
+**join us**
+
+## **The mission** **continues.**
+
+We’re hiring engineers, designers, and operators who believe expertise shouldn’t be locked behind gatekeepers.
+
+**View Open Roles**
+
+Contact Sales
+
+
+---
+
+# https://www.napster.com/blog?be196be5_page=2
+
+Source: https://www.napster.com/blog?be196be5_page=2
+
+# **The Napster Frequency.**
+
+News, ideas, and perspectives from the people and partners building the future of AI.
+
+May 18, 2026
+
+### Napster Hackathon Winners: Meet the builders who showed us what's next
+
+Over 100 developers. Three weeks. One API. These are the four who stood out.
+
+May 18, 2026
+
+### Napster heads to Microsoft's Geek Academy
+
+One of the first steps in our developer community advocacy program is now live with Microsoft.
+
+May 18, 2026
+
+### Napster Heads to Microsoft Build with Omniagent API, a Multimodal Embodied Layer for Any LLM
+
+Plus: A global hackathon, a booth at Fort Mason, and product demos that show what comes next
+
+April 4, 2026
+
+### A Team of One: How to Build Your Own Crew With AI
+
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have to fill new functions.
+
+April 1, 2026
+
+### How to Use AI to Think Bigger, Not Just Work Faster
+
+The best uses of AI tools to not only check boxes but level up human ingenuity and help people achieve more.
+
+Browse by Topic
+
+All
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
 
 November 20, 2025
 
@@ -108,6 +203,30 @@ September 9, 2025
 ### Ati Serpoushan on how Microsoft and Napster AI are shaping the next era of AI adoption
 
 "Together, we're not just implementing solutions. We're co-creating the future of how businesses operate, one customer success story at a time."
+
+Immersive Worlds
+
+July 14, 2025
+
+### Bridging the 3D asset gap: Napster 3D Studio makes immersive ecommerce accessible
+
+Napster 3D Studio converts 2D images to 3D assets, helping ecommerce scale their immersive experiences.
+
+AI Assistants
+
+June 26, 2025
+
+### The future belongs to businesses that own their customer relationships and the exceptionally rich data that comes from their customer interactions
+
+Napster champions owning customer relationships and data as AI rapidly advances. Act now to thrive and shape your future in the new digital era.
+
+AI Assistants
+
+June 25, 2025
+
+### AI you can talk to: Napster companions are your video upgrade to AI chat
+
+Napster Companions are AI experts you talk to via real-time video chat. Expertise when you want it for ~ $1/hour.
 
 **join us**
 
@@ -162,23 +281,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
+March 31, 2025
+
+### Infinite Reality named one of America’s greatest startup workplaces by Newsweek
+
+Infinite Reality Named One of America’s Greatest Startup Workplaces by Newsweek
+
+March 24, 2025
+
+### Napster 3D Studio: a new way to web
+
+Build any immersive 3D space you can imagine with Napster 3D Studio, a scalable, DIY platform for creating immersive 3D experiences
+
 January 21, 2026
 
 ### We know how the 'Napster phase of AI' ends
 
 The technology works. The demand is real. But the compensation models for generative AI are still catching up, and there's a lot of work to do.
-
-April 8, 2025
-
-### AI-powered immersive experiences are driving virtual tourism
-
-Immersive 3D and AI is transforming virtual tourism with engaging experiences and greater access to destinations around the world.
-
-June 4, 2024
-
-### Top use cases of digital twins
-
-This blog spotlights digital twins' top use cases and applications in manufacturing, smart cities, energy, retail, and aerospace.
 
 Media contact
 
@@ -241,11 +360,11 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-February 13, 2025
+April 29, 2025
 
-### How immersive experiences are revolutionizing fan engagement
+### Go beyond the grid: connect Shopify to your 3D ecommerce space
 
-Explore how immersive technology is transforming the sports viewing experience for fans worldwide.
+The 2D product grid is limiting. Go beyond those limits and use your Shopify store to evolve your brand to 3D ecommerce.
 
 December 10, 2025
 
@@ -253,9 +372,88 @@ December 10, 2025
 
 This holiday season, Napster View lands at Best Buy: a $99 3D holographic display that puts a crew of AI specialists right above your Mac.
 
-December 5, 2025
+December 15, 2025
 
-### How Napster’s 2025 holiday gift guide is hoping to solve retail’s biggest headaches
+### AI agents assist in Cyber Week 2025 shopping surge
+
+Traffic from AI-powered tools to retail sites surged 670% on Cyber Monday alone, and traffic is up 760% overall from Nov. 1 to Dec. 1.
+
+Media contact
+
+# **Press inquiries.**
+
+Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/blog/a-team-of-one-how-to-build-your-own-crew-with-ai
+
+Source: https://www.napster.com/blog/a-team-of-one-how-to-build-your-own-crew-with-ai
+
+# A Team of One: How to Build Your Own Crew With AI
+
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have to fill new functions.
+
+Napster
+
+**Napster’s** Chief Technology and Product Officer, Edo Segal, recently shared a look into AI’s “**Orange Pill**” moment, when Claude Code recalibrated this technology from a tool to, effectively, a limitless, tireless coding partner.
+
+This series explores the practical applications of AI as a thought partner that does its best work when used to enhance, not replace, the human touch. This installment is about access, and what becomes possible when the barrier between “having a great idea” and “having the resources to execute it” starts to collapse.
+
+### The resource gap has always been the real gap
+
+Edo’s Orange Pill piece includes an image that stuck with us: a student in Dhaka who now has access to the same coding leverage as a principal engineer at Google. The comparison points to something most people who have worked without institutional support already know.
+
+The gap between a good idea and a finished product has rarely been about talent. It has almost always been about resources: time, money, and access to the right expertise at the right moment.
+
+AI flattens the resources required, especially when it’s treated not as a generalist, but built like a team, with individual personas working toward a particular goal. Building a **crew of agentic specialists**, each trained on a specific domain, gives you better distributed skillsets and perspectives than any single tool can.
+
+Advances in AI’s persistent memory is one of the key catalysts for the Orange Pill moment. Current AI systems can recall what you’ve tried, what’s worked, and what you keep coming back to, at times better than a human teammate can. That continuity unlocks opportunities for development and growth, not just for the companions you create and the project you’re working on now, but for the next one, and the one after that.
+
+This is what democratized access to expertise looks like in practice: A set of persistent, specialized relationships that compound over time, the same way the best professional relationships always have.
+
+The Dhaka student and the Google engineer aren’t the same. Experience, network, and context still matter. But the gap between “I have an idea” and “I have the resources to find out if it’s a good one” is narrower than it has ever been.
+
+### Five ways to build your crew
+
+Making this shift is less about finding the right tools and more about changing how you approach the work. Here’s a practical starting point.
+
+1. **Assign roles before you start**. Before opening a new session, decide what kind of help you need. Being specific about the role, whether that’s “I need a skeptic” or “I need a subject matter expert,” produces dramatically better results than a generic prompt.
+2. **Match the specialist to the problem**. Resist the impulse to use the same companion for everything. AI built around creative brainstorming will approach a financial modeling problem differently than one built around analytical rigor. Use the right specialist for the right kind of work.
+3. **Build context deliberately**. Persistent memory turns individual interactions into a relationship, but only if you invest in it. At the start of a new project, take five minutes to brief your companions: what you’re trying to accomplish, what constraints matter, what you’ve already tried.
+4. **Let your crew cross-pollinate**. Bring the output of one specialist into the session of another. Cross-domain review consistently catches blind spots that any single perspective misses, and it takes less time than you’d think.
+5. **Stay the one who decides**. A crew without a director isn’t a crew. AI handles a remarkable amount of the execution, but the strategic calls, the final read, the choice to click the publish button — those stay with you.
+
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have, intentionally and in combination. Regardless of your background and the height of your ambitions, there’s a process for building toward those goals and a crew ready to help you on your way.
+
+Start with one role. Fill it well. Then add another.
+
+Share article:
+
+also read
+
+## Related posts
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+March 25, 2026
+
+### From Doing to Deciding: Your New Job Description in the Age of AI
+
+This edition of the Orange Pill blog series focuses on a shift that will touch every professional: the move from execution to judgment.
+
+April 1, 2026
+
+### How to Use AI to Think Bigger, Not Just Work Faster
+
+The best uses of AI tools to not only check boxes but level up human ingenuity and help people achieve more.
+
+June 6, 2024
+
+### Digital twins for disaster prevention
+
+Digital twins are invaluable in disaster prevention, predicting, preparing for, and mitigating the impacts of natural and man-made disasters.
 
 Media contact
 
@@ -304,23 +502,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-September 6, 2024
+December 10, 2025
 
-### Dubai's vision 2030: what is it?
+### Napster view arrives at Best Buy
 
-Dubai's Vision 2030 is an initiative to transform the city into a global leader in innovation, sustainability, and digital transformation.
+This holiday season, Napster View lands at Best Buy: a $99 3D holographic display that puts a crew of AI specialists right above your Mac.
 
-May 29, 2025
+June 6, 2024
 
-### Get started with Napster Spaces: a visual walkthrough
+### Digital twins for disaster prevention
 
-Boost your website's sales & CX with Napster Spaces. Get a video AI sales associate offering personalized guidance and answers.
+Digital twins are invaluable in disaster prevention, predicting, preparing for, and mitigating the impacts of natural and man-made disasters.
 
-July 19, 2024
+March 13, 2024
 
-### How the UAE is leading the way in digital twin integration
+### Top metaverse use cases 2024
 
-The UAE is leading the integration of digital twin technology through various urban development and infrastructure projects.
+This blog dives into key use cases of the metaverse that organizations and governments can utilize.
 
 Media contact
 
@@ -381,9 +579,88 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-December 5, 2025
+February 7, 2024
 
-### How Napster’s 2025 holiday gift guide is hoping to solve retail’s biggest headaches
+### Top 5 use cases of the Apple Vision Pro
+
+This blog dives into the varied use cases of the Apple Vision Pro in sectors like gaming, medicine and healthcare, retail, tourism, and education.
+
+March 17, 2026
+
+### Filling Space: How AI Can Act as a Creative Catalyst
+
+The most difficult part of writing is almost always the beginning, and AI can help you overcome that and much more.
+
+May 22, 2025
+
+### The future of Gen Z marketing is immersive. And it’s already here.
+
+Immersive tech is changing Gen Z marketing. Discover how brands use 3D, AI, and gamification to boost engagement and loyalty.
+
+Media contact
+
+# **Press inquiries.**
+
+Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/blog/filling-space-how-ai-can-act-as-a-creative-catalyst
+
+Source: https://www.napster.com/blog/filling-space-how-ai-can-act-as-a-creative-catalyst
+
+# Filling Space: How AI Can Act as a Creative Catalyst
+
+The most difficult part of writing is almost always the beginning, and AI can help you overcome that and much more.
+
+Napster
+
+**Napster’s** Chief Technology and Product Officer, Edo Segal, recently shared a look into AI’s "**Orange Pill**" moment, when Claude Code recalibrated this technology from a tool to, effectively, a limitless, tireless coding partner.
+
+The results are both staggering and mixed. On one hand, workers are finding time to think creatively and focus on strategic decisions rather than low-effort, time-intensive tasks. On the other, company leaders are questioning what staffing looks like, and what work-life balance looks like, when one person can, conceptually, do the work of many.
+
+This series explores the practical applications of AI as a thought partner that does its best work when used to enhance, not replace, the human touch. It will also take a look at how to navigate shifting roles and responsibilities, avoid burnout, and acclimate to the new frictions of an AI-enabled workplace.
+
+We’ll start with a benefit most Claude coders and Napster users are aware of: how AI helps fill space.
+
+### AI is never at a loss for words
+
+The most difficult thing is almost always the beginning. Writer’s block. Analysis paralysis. The blank page problem. Whatever you call it, you’re likely familiar with how problematic filling an empty space can be. It’s an enemy of creatives and technical minds alike, and it often takes more time to put together those first few lines – be it words, code, strokes on a canvas, or something wildly different – than the rest of the thing takes put together.
+
+So you sketch it out. You make some word vomit. You spin out a web of ideas and hope that you can pluck something from the noise that makes sense.
+
+But what if it wasn’t just noise? What if the blank spaces were filled in entirely – maybe not in the way *you’d* say it, but with a way to say it that you can bounce off of? That’s what AI offers for just about every form of creation and communication. Whether it’s your thought partner or an uneasy ally, AI can make your jumble of thoughts tangible and that disjointed list of tasks manageable.
+
+This philosophy is the foundation of Napster’s embodied **Companions** and Artists, subject experts designed to help users get through the messiest parts of creation more easily. Whether someone is creating a song, scaffolding a new application, drafting a complex project plan, or organizing a media library, the goal is to get to a functional starting point in minutes, work together to make it perfect, and take the learnings from that content into every interaction afterward.
+
+You never have to start from zero, and that head-start will let you focus less on how to begin and more on how what you create looks from start to finish.
+
+### Where does the time go?
+
+When the cost of production and the effort required for a first draft drop, the role of the “human in the loop” changes. The focus becomes taste, creativity, focus, and the big picture.
+
+That, like all changes, comes with some noticeable benefits and risks. As the **Harvard Business Review** noted, people are clamoring to fill the blank space AI provides, often by taking on additional low-impact tasks rather than more meaningful work. Meanwhile, companies at the heart of this technology, like **Anthropic**, are using AI to do more, but more importantly to try new things.
+
+Don’t let minutiae infiltrate the space AI creates. Use that freedom to approach a project differently, brainstorm fresh ideas, and to ask questions about what’s going well, what could be better, and what might be missing.
+
+Here are a few tips for putting what AI does well and what you do best together to get past the blank page problem.
+
+1. **Provide your own examples** of what success looks like to give the platform a North Star, whether it’s just one great result from a vibe coding session or a body of work that shows how your final products usually look and feel.
+2. **Ask the AI what it needs** to most effectively recreate your approach and voice. This could be a series of steps, uploads, or just a prompt or conversation with what you’ve provided in the past as an anchor for what’s new.
+3. **Ask for different takes on the same content** by requesting multiple options that have a specific tone, style, or form factor. That next big idea could come from seeing what your latest chapter might look like as a screenplay or finally proving that weekly meeting could actually be an email.
+4. **Set guardrails** to prevent hallucinations and keep your AI partner on-track. Some examples include “be concise, and avoid repetition,” “only use information from [insert document names, URLs, etc., here] in this draft,” and including constraints such as word, line, or character counts.
+5. **Iterate and improve** by providing your platform of choice with the finished work. Ask it to summarize the differences between the first piece and the last, then request that the platform internalize that feedback for future reference. This will improve first results over time and set additional guardrails for content quality and consistency.
+
+And remember: You’re the final arbiter of the quality and accuracy of whatever an AI drafts. It might work the first time, or it might take some tries, but whatever is created ultimately points back to you. Be sure you’re proud of what’s on the screen, personally, before it leaves your hands.
+
+Share article:
+
+also read
+
+## Related posts
+
+Stay up to date with the latest platform updates, feature launches, and important news.
 
 October 29, 2025
 
@@ -391,11 +668,114 @@ October 29, 2025
 
 Today, Napster announced support for Shopify’s MCP within Napster Spaces.
 
-August 30, 2024
+April 8, 2025
 
-### Enhancing Saudi Arabia's cultural events with the immersive web
+### AI-powered immersive experiences are driving virtual tourism
 
-Saudi Arabia can use immersive experiences to preserve and showcase its cultural heritage, attract tourists, and foster greater understanding and appreciation worldwide.
+Immersive 3D and AI is transforming virtual tourism with engaging experiences and greater access to destinations around the world.
+
+May 18, 2026
+
+### Napster heads to Microsoft's Geek Academy
+
+One of the first steps in our developer community advocacy program is now live with Microsoft.
+
+Media contact
+
+# **Press inquiries.**
+
+Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/blog/from-doing-to-deciding-your-new-job-description-in-the-age-of-ai
+
+Source: https://www.napster.com/blog/from-doing-to-deciding-your-new-job-description-in-the-age-of-ai
+
+# From Doing to Deciding: Your New Job Description in the Age of AI
+
+This edition of the Orange Pill blog series focuses on a shift that will touch every professional: the move from execution to judgment.
+
+Napster
+
+**Napster's** Chief Technology and Product Officer, Edo Segal, recently shared a look into AI's "**Orange Pill**" moment, when Claude Code recalibrated this technology from a tool to, effectively, a limitless, tireless coding partner.
+
+The results are both staggering and mixed. On one hand, workers are finding time to think creatively and focus on strategic decisions rather than low-effort, time-intensive tasks. On the other, company leaders are questioning what staffing looks like, and what work-life balance looks like, when one person can, conceptually, do the work of many.
+
+This series explores the practical applications of AI as a thought partner that does its best work when used to enhance, not replace, the human touch. It will also take a look at how to navigate shifting roles and responsibilities, avoid burnout, and acclimate to the new frictions of an AI-enabled workplace.
+
+This installment is about a shift that will touch every professional, in every field: the move from execution to judgment, and what it means for how you spend your time.
+
+### The value of 'doing' is changing
+
+Consider how much of a typical workday is pure execution: formatting a report, sorting data, writing a first draft from a template you've used dozens of times. This is work that takes hours without requiring much creative energy, and for most professionals, it represents a significant portion of the week.
+
+AI is compressing that time dramatically and freeing up time to focus on the good, impactful stuff. As Edo put it in his piece: "When production is cheap, the premium shifts from execution to judgment." The professionals who will have an edge going forward are less likely to be the ones who produce the most output, and more likely to be the ones who make the best calls.
+
+That's a meaningful reorientation, especially for junior employees who are typically tasked with doing. Most careers are built around the ability to deliver reliable output efficiently. The new, and potentially scary, question is what do you do when hours of low-effort work are no longer a blocker and expectations rise?
+
+### What judgment actually looks like
+
+So, if it isn’t your job to draft that executive memo or run the numbers anymore, what do you do to replace that work? You move from the foundational doing to deciding the best way to communicate your message or your project, then get on to bigger and better things.
+
+In an AI-enabled workflow, judgment looks like reviewing ten generated options and knowing which one, or which pieces of one, are right. It’s understanding your audience well enough to catch what the machine got subtly wrong. It’s asking a sharper question at the start of a project, because the quality of your output will only be as strong as the clarity of your thinking going in.
+
+Edo describes this as the "ascension" of friction. The tedious layers of work, the syntax errors, the formatting, the boilerplate, are already handled. What remains is harder in a different way and requires taste, vision, and the ability to think at a systems level about what you're actually trying to accomplish.
+
+### AI saves you time; use that time on people
+
+Setting aside more time for visionary thinking is a great goal. It is also a ridiculous request to make of someone on Day 1 on the job or one who is new to the workforce in general. That is why it’s important for freed-up time to trickle down to the junior level, with managers using their extra bandwidth to help their teams develop and grow.
+
+Great leaders reinvest their time into their people, and AI used properly offers an opportunity for *more* human interaction and coaching. Moving forward, the leadership mandate is focused on shortening the learning curve across the organization and making everyone feel comfortable operating as a decision-maker.
+
+These capabilities are learnable, and they compound; they just can’t take years to develop anymore.
+
+Ready or not, there's a productivity chasm opening between people who have integrated AI into their workflows and those who haven't, whether it’s a person stepping into their first professional role or a routinely high performer. Workers using AI on routine tasks are freeing up real time, and the ones redirecting that time toward more meaningful work are pulling ahead.
+
+But remember: Clearing your schedule is only useful if you're intentional about what replaces it. The goal is to trade up, not to do the same work more quickly.
+
+### How to start delegating
+
+Making this shift starts with an honest audit of where your time actually goes. **Napster Companions** are designed to take on the work that fills your day without requiring your best thinking, so you can focus on the decisions that genuinely need you.
+
+Here's a practical way to approach it:
+
+1. **Make a list of your most time-intensive, low-judgment tasks.** Weekly reports, data upkeep, first-draft content, meeting summaries — anything that follows a recognizable formula. These are the best starting points for delegation.
+2. **Break down how those deliverables get made.** What inputs do they require? How much personalization do they need? Which steps matter most, and which are mostly connective tissue? Understanding the anatomy of your routine work makes it easier to hand off cleanly.
+3. **Ask AI to help you build the template, not just fill it.** Give your AI companion an example of a finished product and ask it to work backward through the process. This creates a repeatable system rather than a one-time shortcut.
+4. **Protect the space you free up.** Be deliberate about redirecting reclaimed time toward strategy, relationships, and creative problem-solving. Left to chance, it tends to fill back up with the same low-stakes work you just offloaded.
+5. **Stay the final decision-maker.** Whatever AI drafts, you review and approve. Your name is on it. The point of moving faster through production is to spend more time on the editing, refining, and deciding that requires your actual judgment.
+
+A good architect doesn't lay every brick, but understands the building better than anyone else on the site. That's what work looks like now, or will very soon: less focus on output volume, more on the quality of the calls you're making and the clarity of the vision driving them.
+
+AI takes care of a lot of the former. The latter is still entirely yours.
+
+Share article:
+
+also read
+
+## Related posts
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+January 6, 2026
+
+### 2026 is the year AI becomes our social fabric
+
+In 2026, we are moving beyond AI as a tool and into an era where it integrates into the fabric of our lives and work.
+
+June 21, 2024
+
+### Digital twins for urban planning: how does it work?
+
+Digital twins are used heavily for urban planning to visualize current conditions and predict future developments
+
+April 29, 2025
+
+### Go beyond the grid: connect Shopify to your 3D ecommerce space
+
+The 2D product grid is limiting. Go beyond those limits and use your Shopify store to evolve your brand to 3D ecommerce.
 
 Media contact
 
@@ -463,23 +843,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-October 29, 2025
+April 4, 2026
 
-### Napster and Shopify make AI shopping effortless for retailers
+### A Team of One: How to Build Your Own Crew With AI
 
-Today, Napster announced support for Shopify’s MCP within Napster Spaces.
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have to fill new functions.
 
-December 10, 2025
+April 29, 2025
 
-### Napster view arrives at Best Buy
+### Go beyond the grid: connect Shopify to your 3D ecommerce space
 
-This holiday season, Napster View lands at Best Buy: a $99 3D holographic display that puts a crew of AI specialists right above your Mac.
+The 2D product grid is limiting. Go beyond those limits and use your Shopify store to evolve your brand to 3D ecommerce.
 
-April 9, 2025
+September 6, 2024
 
-### Immersive 3D experiences: the competitive edge for brand collaborations
+### Dubai's vision 2030: what is it?
 
-Immersive 3D experiences give brands a way to truly make their collaborations unique and stand out.
+Dubai's Vision 2030 is an initiative to transform the city into a global leader in innovation, sustainability, and digital transformation.
 
 Media contact
 
@@ -490,31 +870,57 @@ Journalists and media professionals can contact our team for interviews, informa
 
 ---
 
-# https://www.napster.com/blog/napster-and-shopify-make-ai-shopping-effortless-for-retailers
+# https://www.napster.com/blog/how-to-use-ai-to-think-bigger-not-just-work-faster
 
-Source: https://www.napster.com/blog/napster-and-shopify-make-ai-shopping-effortless-for-retailers
+Source: https://www.napster.com/blog/how-to-use-ai-to-think-bigger-not-just-work-faster
 
-# Napster and Shopify make AI shopping effortless for retailers
+# How to Use AI to Think Bigger, Not Just Work Faster
 
-Today, Napster announced support for Shopify’s MCP within Napster Spaces.
+The best uses of AI tools to not only check boxes but level up human ingenuity and help people achieve more.
 
 Napster
 
-**Bringing every Shopify store into the AI era**
+Napster's Chief Technology and Product Officer, Edo Segal, recently shared a look into AI's "**Orange Pill**" moment, when Claude Code recalibrated this technology from a tool to, effectively, a limitless, tireless coding partner.
 
-It seems every day we’re hearing about the next major player in AI adopting the MCP protocol, but what does it really mean? Model Context Protocol, or MCP for short, is an open standard that allows AI models to connect seamlessly to external data sources and tools. Think of it like a magic tunnel system that allows AI systems to speak to each other, even when they’re owned by different companies.
+This series explores the practical applications of AI as a thought partner that does its best work when used to enhance, not replace, the human touch. It will also take a look at how to navigate shifting roles and responsibilities, avoid burnout, and acclimate to the new frictions of an AI-enabled workplace.
 
-Today, Napster announced support for Shopify’s MCP within Napster Spaces, which transforms websites into immersive, interactive experiences complete with an embodied AI agent. Through this integration, Napster Spaces connects directly with Shopify, empowering embodied AI agents to handle tasks on behalf of the customer - all guided by the customer’s natural voice commands in an immersive environment.
+This installment takes that a step further. We've talked about **using AI to clear the runway**. Now let's work out what to do once you're on it.
 
-**A new world of agentic AI shopping**
+### Where friction falls
 
-The real magic here is that customers can talk face to face with photoreal video AI agents as naturally as they would a sales associate in a physical store. Our real-time video avatars understand intent, answer questions, and manage the entire shopping journey. Picture this: A customer goes to your website and says “I need running shoes for trail running, size 10.” The agent shows options, answers questions about materials and fit, and completes the purchase - all through voice. Today, we’re bringing this capability to the millions of Shopify businesses, giving them a fast and frictionless path into the AI era.
+No matter how capable the model, AI cannot remove friction. Not entirely. It might pave the way a bit, but if you’re using AI properly, you’ll still hit some obstacles a ways down the road.
 
-This announcement comes as Shopify currently has 2.7 million live stores running on its platform, and yet recent research shows that 60% of business owners doubt that generative AI can fit into their current tech stack. Napster Spaces closes that gap by offering fully branded, AI-guided web experiences with plug-and-play integrations that can be launched in minutes. Using Shopify's industry-leading MCP tooling, Napster is the first to enable near-instant deployment of an AI-powered Shopify storefront. With the agentic AI market projected to grow from $5.2 billion in 2024 to $196.6 billion by 2034 — a compound annual growth rate of 43.8% — demand for solutions like Napster Spaces is expected to surge.
+AI can handle the low-level friction of work — the syntax errors, the formatting passes, the boilerplate that fills hours without challenging you. What remains is hard in a different way: system design, conceptual integrity, the question of whether you're building the right thing at all. Those problems don't get easier just because the administrative layer got lighter. Those problems, as they always have, require the attention of an actual person.
 
-While business owners everywhere grapple with how to bring AI into their operations, Napster Spaces offers a surprisingly simple answer: a few clicks to set up, and a shopping experience that feels like the future.
+And that’s a good thing. That means you’re treating the AI as a collaborator or a thought partner rather than a tool. It also means you’re putting your time and effort where it is most valuable.
 
-**Check out Napster Spaces** **here**. **If you’re a Shopify business owner, reach out to our sales team** **here****.**
+There's a version of adapting to AI that focuses on efficiency: get the work done, and move on. The **more interesting approach** uses those same AI tools to not just check boxes but level up human ingenuity, provide a third-party perspective on big ideas, and achieve more.
+
+### AI as a thinking partner
+
+Most people use AI for production: write this, summarize that, generate a few options. That's useful, but it's a narrow slice of what these tools can offer your thinking.
+
+Research published in the **Harvard Business Review** found that AI tools, when used well, can meaningfully expand the range and originality of ideas a person generates. AI offers unmatched breadth: It generates many variations on a theme and draws connections across fields that a human mind, working alone, might not reach. The human contribution remains evaluation, judgment, and the kind of divergent thinking that produces genuinely novel ideas rather than well-organized familiar ones.
+
+A **Bain & Company** survey of Fast Company 50 Most Innovative Companies found that AI is already reshaping early-stage concept development at organizations on the frontier of tech. That said, human-generated ideas remain significantly stronger in novelty, particularly for breakthrough thinking. You’re still the artist, but AI systems can broaden your palette in ways you might not expect.
+
+Understanding that distinction changes the way a person approaches an AI companion and turns a tool for tasks that are already underway into a sounding board for potential game-changing work.
+
+### How to prompt your way into bigger thinking
+
+The practical gap most people hit is knowing how to use AI for higher-level thinking rather than just more output. **Napster Companions** are built for this kind of collaboration: They have persistent memory, work conversationally, and are capable of building on context across sessions rather than starting cold every time. They can be, quite literally, a sounding board, one that can take a “yes, and” approach, be the blunt-but-necessary cynic who pokes holes in your ideas, and everything in between.
+
+Here are five ways to use them for the hard thinking:
+
+1. **Start with the problem, not the deliverable.** Instead of asking AI to draft a strategy deck, describe the underlying challenge you're trying to solve. "We're losing customers after the first month and I don't know why" will generate more useful thinking than "write a retention strategy." Let the framing develop in conversation before the output does.
+2. **Ask for the argument against your idea.** One of the most underused prompts is simply: "What are the strongest objections to this?" or "What am I most likely getting wrong?" AI is good at steelmanning the other side, and pressure-testing your thinking before it reaches a real audience is one of the most practical things you can do with these tools.
+3. **Borrow from adjacent fields.** Ask your AI companion how a similar problem has been solved in a completely different industry. A logistics challenge might have an elegant parallel in healthcare operations. A marketing positioning problem might find clarity through the lens of how a political campaign thinks about messaging. Cross-domain connection is something AI does naturally and humans tend to do only when they have time to wander.
+4. **Work through a block mid-project.** The first part of this series covered AI's ability to solve the **blank page problem**. When you're deep into a project and the thinking has stalled, a conversation with an AI companion can surface assumptions you didn't know you were making or reframe a question in a way that moves things forward. Sometimes it just helps to articulate the block out loud to something that will ask a useful follow-up.
+5. **Build a feedback loop over time.** Because Napster Companions retain memory across conversations, they can track how your thinking on a project has evolved and flag when you're circling back to ideas you've already rejected. That continuity is hard to replicate in a single session and genuinely useful for long-term work that develops over weeks or months.
+
+The goal is to start by using AI to protect the conditions where your best thinking happens, then bring the platform into the loop to help elevate those ideas. Move the low-effort friction, center your workflow around the big picture, then come to the table again with better preparation, more room to explore, and a hard problem or two to solve.
+
+You still have to decide if the solution is the right one. But that choice is easier with the kind of broadening of perspective that AI provides.
 
 Share article:
 
@@ -524,11 +930,102 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-February 7, 2024
+October 29, 2025
 
-### Top 5 use cases of the Apple Vision Pro
+### Napster and Shopify make AI shopping effortless for retailers
 
-This blog dives into the varied use cases of the Apple Vision Pro in sectors like gaming, medicine and healthcare, retail, tourism, and education.
+Today, Napster announced support for Shopify’s MCP within Napster Spaces.
+
+April 4, 2026
+
+### A Team of One: How to Build Your Own Crew With AI
+
+Building a crew used to mean knowing the right people. Now it means knowing how to use the tools you already have to fill new functions.
+
+November 20, 2025
+
+### Napster strikes MoU with Takamol Holding at U.S.-Saudi Investment Forum
+
+Napster was among the tech titans that took part in the November 19 U.S.-Saudi Investment Forum in Washington, D.C.
+
+Media contact
+
+# **Press inquiries.**
+
+Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/blog/napster-hackathon-winners
+
+Source: https://www.napster.com/blog/napster-hackathon-winners
+
+# Napster Hackathon Winners: Meet the builders who showed us what's next
+
+Over 100 developers. Three weeks. One API. These are the four who stood out.
+
+Napster
+
+**Over 100 developers. Three weeks. One API. These are the four who stood out.**
+
+When we opened the Napster Omniagent API to developers, we weren't sure exactly what would come back. We knew the API was capable. What we didn't know was how fast developers would push it somewhere unexpected.
+
+Now we do.
+
+More than 100 developers answered the call for Napster’s first-ever hackathon. Three weeks of building later, we had 10 finalists doing things with voice and video agents that ranged from genuinely useful to absolutely wild. Agents running security operations. Agents calling little-league baseball. Agents debating each other in real time while a live audience throws chaos at them.
+
+Today we’re sharing the winners for each of the four categories, and what they built. Let’s dive in.
+
+**1. Best Agent in Production: Atlas**
+
+Atlas is a multimodal B2B support agent built around a single idea that sounds obvious once you hear it: A customer should never have to repeat themselves.
+
+Most support experiences break at the handoff. You explain your issue to a bot, get escalated, and explain it again. Atlas doesn't work that way. It carries one customer identity across web, video, voice, and a live phone call. Tier-1 Atlas handles grounded, factual questions and, when it's time to bring in a specialist, Atlas performs the hands off with the same context, the same memory, and no starting over.
+
+The handoff problem is one of the most friction-filled moments in any customer relationship and with Atlas it’s an effortless transition.
+
+**2. Most Creative Use of Voice + Video: Buck**
+
+Buck is an AI little-league announcer and scorekeeper, and it's exactly as fun as it sounds, plus technically more interesting than it looks.
+
+Here's how it works: You narrate the play in your own words. Buck takes that description and calls it like a pro broadcaster while simultaneously keeping the official scorebook in the background. Two completely different outputs from one natural-language input running in real time.
+
+The Most Creative Use Case category was competitive. Buck’s “job” is specific, joyful, and a little absurd. But the underlying challenge (turning unstructured natural language into simultaneous structured data and expressive audio) is real, and Buck nails it.
+
+**3. Best Enterprise Application: Alex**
+
+Alex is built for the highest-stakes 10 minutes in a security operations center: The first moments after an incident is reported, when everything is moving fast and the cost of a wrong call is high.
+
+Alex is built on a senior-analyst persona grounded in real federal incident-response playbooks from CISA. He asks precise clarifying questions, classifies severity from P1 through P4, and builds a full containment-to-recovery plan. He logs the ticket with an SLA deadline and offers escalation to a human analyst when the situation calls for it.
+
+The design principle that makes it work is that a human stays in control of every irreversible decision. Alex doesn't act; he thinks, classifies, and organizes. It makes the first 10 minutes calm so the humans running the response can make better calls.
+
+**4. Wild Card: A.R.E.N.A.**
+
+Imagine Twitch Plays Pokémon, but the players are AI agents arguing with each other, and the audience controls the rules.
+
+A.R.E.N.A. runs three distinct AI personalities: Rico, Helena, and Darius. They debate hot-button topics continuously, with no human moderator. A live audience watches, votes, and spends credits on "chaos rules” that rewrite the agents' instructions in real time.
+
+"Speak only in questions."
+
+"Argue the opposite side."
+
+The debate changes shape based on what the audience decides to throw at it.
+
+The technical execution is fearless. WebSocket and WebRTC run on the same agents simultaneously. There's one authoritative audio feed, a shared transcript, and per-viewer lip-synced video avatars. It works. Watching it is genuinely strange in a fantastic way.
+
+Congratulations to Atlas, Buck, Alex, and A.R.E.N.A., and to all 10 finalists who made this harder to judge than we expected. Each winner will collect a prize pack worth nearly $2,000 and includes a Microsoft Surface laptop
+
+Want to be part of the next one? Watch for the next hackathon at napster.com/developer.
+
+Share article:
+
+also read
+
+## Related posts
+
+Stay up to date with the latest platform updates, feature launches, and important news.
 
 April 8, 2025
 
@@ -536,11 +1033,17 @@ April 8, 2025
 
 Immersive 3D and AI is transforming virtual tourism with engaging experiences and greater access to destinations around the world.
 
-January 6, 2026
+December 15, 2025
 
-### 2026 is the year AI becomes our social fabric
+### AI agents assist in Cyber Week 2025 shopping surge
 
-In 2026, we are moving beyond AI as a tool and into an era where it integrates into the fabric of our lives and work.
+Traffic from AI-powered tools to retail sites surged 670% on Cyber Monday alone, and traffic is up 760% overall from Nov. 1 to Dec. 1.
+
+April 9, 2025
+
+### Immersive 3D experiences: the competitive edge for brand collaborations
+
+Immersive 3D experiences give brands a way to truly make their collaborations unique and stand out.
 
 Media contact
 
@@ -583,10 +1086,10 @@ Build is one of the most important moments of the year for the developer ecosyst
 
 Categories include:
 
-* Best multi-surface integration
-* Best creative use case
-* Best production-ready build
-* Best use of memory continuity
+* Best agent in production
+* Most creative use of voice + video
+* Best enterprise application
+* Wild card
 
 Registration is open now on the hackathon landing page, along with competition rules and access to an active community channel where Napster engineers will be available throughout the build window.
 
@@ -610,23 +1113,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-March 31, 2025
+March 17, 2026
 
-### Infinite Reality named one of America’s greatest startup workplaces by Newsweek
+### Filling Space: How AI Can Act as a Creative Catalyst
 
-Infinite Reality Named One of America’s Greatest Startup Workplaces by Newsweek
+The most difficult part of writing is almost always the beginning, and AI can help you overcome that and much more.
 
-December 10, 2025
+May 7, 2025
 
-### Napster view arrives at Best Buy
+### Napster 3D Studio and Ready Player Me: powering 3D personalization for ecommerce
 
-This holiday season, Napster View lands at Best Buy: a $99 3D holographic display that puts a crew of AI specialists right above your Mac.
+Personalize 3D ecommerce with Napster 3D Studio and Ready Player Me. Drive engagement with consistent avatars across virtual spaces.
 
-June 21, 2024
+January 6, 2026
 
-### Digital twins for urban planning: how does it work?
+### 2026 is the year AI becomes our social fabric
 
-Digital twins are used heavily for urban planning to visualize current conditions and predict future developments
+In 2026, we are moving beyond AI as a tool and into an era where it integrates into the fabric of our lives and work.
 
 Media contact
 
@@ -637,33 +1140,23 @@ Journalists and media professionals can contact our team for interviews, informa
 
 ---
 
-# https://www.napster.com/blog/napster-strikes-mou-with-takamol-holding-at-u-s--saudi-investment-forum
+# https://www.napster.com/blog/napster-takes-the-omniagent-api-to-microsofts-geek-academy
 
-Source: https://www.napster.com/blog/napster-strikes-mou-with-takamol-holding-at-u-s--saudi-investment-forum
+Source: https://www.napster.com/blog/napster-takes-the-omniagent-api-to-microsofts-geek-academy
 
-# Napster strikes MoU with Takamol Holding at U.S.-Saudi Investment Forum
+# Napster heads to Microsoft's Geek Academy
 
-Napster was among the tech titans that took part in the November 19 U.S.-Saudi Investment Forum in Washington, D.C.
+One of the first steps in our developer community advocacy program is now live with Microsoft.
 
 Napster
 
-Amidst a gathering of global heads of state and technology titans at the John F. Kennedy Center for the Performing Arts on Wednesday, Napster signed a Memorandum of Understanding (MoU) with Takamol Holding, a partnership aimed at accelerating the deployment of artificial intelligence and digital transformation within Saudi Arabia.
+One of the first steps in our developer community advocacy program is now live with Microsoft.
 
-The agreement was inked during the U.S.-Saudi Investment Forum, an event that brought together political leaders including President Donald Trump and Crown Prince Mohammed bin Salman as well as industry titans such as Elon Musk and NVIDIA CEO Jensen Huang. Attendees described the atmosphere inside the center as "incomparable," characterizing the forum as a convergence of two nations moving to align their economies on the future of innovation.
+On Tuesday June 16, Napster will join **Geek Academy**, Microsoft's community of more than 8,000 developers, for a live, hands-on session on building real-time voice and video AI agents. Napster's **Marius Bratu** will show how our API turns one API call into an embodied agent across voice, video, and text, with persistent memory across multiple surfaces from one cent per minute.
 
-“‘Every single person not only wanted to discuss AI and its potential impact but wanted to get moving with it – the talk is over, and now it’s about action,” Stephen O’Shea, Napster’s Executive Vice President, Strategy and Corporate Operations, said of the Forum. “We definitely are at the right place, the right technology, the right time, and it’s up to us to evangelize ourselves and execute because the world needs our product and wants our product.”
+It's the latest step in a developer program that's picking up pace: Earlier this month, we put leadership onstage and conducted hundreds of product demos at **Microsoft Build**, and we just wrapped our first developer hackathon and a week collaborating with industry leaders at **Fortune Brainstorm Tech** as well.
 
-### **The Takamol Collaboration**
-
-The MoU establishes a framework for Napster and Takamol, a Saudi entity focused on socio-economic development and labor market solutions, to jointly build and deploy these technologies. O’Shea joined Takamol CEO Ahmad Al-Yamani to sign the deal amid a day that saw $270 billion in deals done, according to Trump.
-
-“We were in the epicenter of innovation and investment for both Saudi Arabia and the United States of America,” O’Shea said. “The titans of technology were all assembled at this Forum, and they all had a chance to speak and share their insights.”
-
-The partnership is the result of extended collaboration between the two organizations. Samuel Huber, Napster’s CEO of MENA, and Frank Furnari, Napster’s Vice President of Saudi Arabia, were instrumental in facilitating the agreement on the ground. The technological infrastructure supporting the deal is led by Napster CTO Edo Segal, whose team has developed the conversational AI stack that allows users to engage with thousands of unique AI agents, a core component of the value proposition for Takamol.
-
-The deal positions Napster as a partner in Saudi Arabia's Vision 2030, moving beyond entertainment to provide essential digital infrastructure for the region's economic transformation.
-
-“In Saudi Arabia, Napster’s long-term investment and focus is clear: Support Saudi Vision 2030 in a practical and meaningful way. That means helping organizations innovate, go digital, and adopt advanced technologies in line with the Vision 2030 pillars of a Vibrant Society, a Thriving Economy, and an Ambitious Nation,” Furnari said. “That’s why our collaboration with Takamol is so important. Together, we’re developing Saudi-first solutions for skills, training, and digital services; designed in the Kingdom, for the Kingdom, and aligned with the priorities of Vision 2030 and beyond."
+More session details are available at Geek Academy. We hope you’ll join us there, in our community Discord, and over at developers.napster.com.
 
 Share article:
 
@@ -673,23 +1166,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-April 29, 2025
-
-### Go beyond the grid: connect Shopify to your 3D ecommerce space
-
-The 2D product grid is limiting. Go beyond those limits and use your Shopify store to evolve your brand to 3D ecommerce.
-
-September 6, 2024
-
-### Dubai's vision 2030: what is it?
-
-Dubai's Vision 2030 is an initiative to transform the city into a global leader in innovation, sustainability, and digital transformation.
-
 July 24, 2024
 
 ### Dubai's metaverse strategy: what is it?
 
 Explore Dubai's metaverse strategy and how it can benefit the region economically in sectors like tourism, urban planning, and commerce.
+
+April 2, 2025
+
+### Napster is now available on Google Cloud Marketplace
+
+Access immersive 3D building tools Napster 3D Studio and Enterprise through Google Cloud Marketplace.
+
+February 7, 2024
+
+### Top 5 use cases of the Apple Vision Pro
+
+This blog dives into the varied use cases of the Apple Vision Pro in sectors like gaming, medicine and healthcare, retail, tourism, and education.
 
 Media contact
 
@@ -748,98 +1241,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-January 6, 2026
+January 21, 2026
 
-### 2026 is the year AI becomes our social fabric
+### We know how the 'Napster phase of AI' ends
 
-In 2026, we are moving beyond AI as a tool and into an era where it integrates into the fabric of our lives and work.
+The technology works. The demand is real. But the compensation models for generative AI are still catching up, and there's a lot of work to do.
 
-March 24, 2025
+May 22, 2025
 
-### Napster 3D Studio: a new way to web
+### The future of Gen Z marketing is immersive. And it’s already here.
 
-Build any immersive 3D space you can imagine with Napster 3D Studio, a scalable, DIY platform for creating immersive 3D experiences
+Immersive tech is changing Gen Z marketing. Discover how brands use 3D, AI, and gamification to boost engagement and loyalty.
 
-February 7, 2024
+March 25, 2026
 
-### Top 5 use cases of the Apple Vision Pro
+### From Doing to Deciding: Your New Job Description in the Age of AI
 
-This blog dives into the varied use cases of the Apple Vision Pro in sectors like gaming, medicine and healthcare, retail, tourism, and education.
-
-Media contact
-
-# **Press inquiries.**
-
-Journalists and media professionals can contact our team for interviews, information, or additional materials.
-
-
----
-
-# https://www.napster.com/blog/slam-dunk-how-dicks-sporting-goods-and-napster-are-rewriting-the-rules-of-retail
-
-Source: https://www.napster.com/blog/slam-dunk-how-dicks-sporting-goods-and-napster-are-rewriting-the-rules-of-retail
-
-# Slam dunk: how DICK’S Sporting Goods and Napster are rewriting the rules of retail
-
-DICK’S Sporting Goods and Napster have partnered to launch an immersive, web-based DICK’S House of Sport experience
-
-Infinite Reality
-
-The retail landscape is drowning in noise. Brands are fighting for attention in an endless sea of ads, social media, and product placements. Traditional influencer marketing feels increasingly hollow—another sponsored post lost in the scroll.
-
-Research shows that 63% of consumers want multisensory experiences that make them feel genuinely present and connected. Yet most brands are still playing the same old game—flat content, static experiences, and one-way conversations that leave shoppers feeling detached.
-
-But marketers also know that 49% of consumers have made purchases based on influencer recommendations. So the channel does work, it’s the execution that is broken. And with 81% of offline buyers researching online before stepping into a store, there's a massive opportunity hiding in plain sight.
-
-## **Enter DICK’S House of Sport**
-
-In a bold step forward in immersive retail and omnichannel marketing, DICK’S Sporting Goods and Napster have partnered to launch an immersive, web-based DICK’S House of Sport experience, featuring the first-ever J.J. Watt avatar.
-
-As you enter the virtual *House of Sport*, J.J. treats you to a tour of eight sport-specific rooms, from an outdoor adventure zone to specialized training areas. As you explore the different rooms, J.J. humorously narrates, explaining what each space has to offer. Spot something that catches your eye? Buy it directly within the virtual experience. You can even book an in-store experience or service all within House of Sport.
-
-Key features include:
-
-* **J.J. Watt Virtual Guide**: The three-time Defensive Player of the Year is your personal guide through the experience. This is not just a celebrity endorsement. It is an interactive experience.
-* **Interactive 3D Rooms**: Eight sport-specific environments that focus on different sports and activities. Whether it is outdoor adventures or strength training, there's a space designed specifically for each customer.
-* **Bookable In-Store Experiences**: When extra help is needed, visitors can seamlessly bridge the online-to-offline gap—discovering products online, connecting with experts, and then experiencing those items hands-on in-store.
-* **Shoppable Product Hotspots**: See something you like? Click and buy. No hunting through catalogs or wondering where to find items.
-* **Intuitive Navigation**: No learning curve, no confusion—just natural exploration that feels like browsing your favorite sports store, not clicking through a flat website.
-
-## **Why DICK’S Gets It & Why It Matters**
-
-DICK’S Sporting Goods has been executing on an omnichannel marketing strategy for years, finding success in channels where other retailers are just getting started. They're not jumping on a trend; they're evolving a strategy that already works for them.
-
-We are witnessing a fundamental shift in how digital commerce functions. Younger consumers, who spend more time on platforms like Roblox than Instagram and TikTok combined, are seeking experiences that combine commerce and entertainment. Success in this new landscape will require more than technological prowess or traditional influencer marketing; it will demand emotional intelligence and cultural relevance. The brands that thrive will adopt immersive commerce to forge deeper connections with their audiences.
-
-DICK’S Sporting Goods has offered a glimpse of where retail is heading with its House of Sport concept. The future will belong to brands that create experiences that not only capture attention but also add real value to people’s lives. That is a vision we share at Napster—and the standard we aim to meet as creative leaders in the years ahead.
-
-**Ready to explore House of Sport? Check it out** **here****.**
-
-Share article:
-
-also read
-
-## Related posts
-
-Stay up to date with the latest platform updates, feature launches, and important news.
-
-August 30, 2024
-
-### Enhancing Saudi Arabia's cultural events with the immersive web
-
-Saudi Arabia can use immersive experiences to preserve and showcase its cultural heritage, attract tourists, and foster greater understanding and appreciation worldwide.
-
-June 6, 2024
-
-### Digital twins for disaster prevention
-
-Digital twins are invaluable in disaster prevention, predicting, preparing for, and mitigating the impacts of natural and man-made disasters.
-
-March 13, 2024
-
-### Top metaverse use cases 2024
-
-This blog dives into key use cases of the metaverse that organizations and governments can utilize.
+This edition of the Orange Pill blog series focuses on a shift that will touch every professional: the move from execution to judgment.
 
 Media contact
 
@@ -912,23 +1330,23 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-April 29, 2025
+April 1, 2026
 
-### Go beyond the grid: connect Shopify to your 3D ecommerce space
+### How to Use AI to Think Bigger, Not Just Work Faster
 
-The 2D product grid is limiting. Go beyond those limits and use your Shopify store to evolve your brand to 3D ecommerce.
-
-April 2, 2025
-
-### Napster is now available on Google Cloud Marketplace
-
-Access immersive 3D building tools Napster 3D Studio and Enterprise through Google Cloud Marketplace.
+The best uses of AI tools to not only check boxes but level up human ingenuity and help people achieve more.
 
 November 20, 2025
 
 ### Napster strikes MoU with Takamol Holding at U.S.-Saudi Investment Forum
 
 Napster was among the tech titans that took part in the November 19 U.S.-Saudi Investment Forum in Washington, D.C.
+
+July 19, 2024
+
+### How the UAE is leading the way in digital twin integration
+
+The UAE is leading the integration of digital twin technology through various urban development and infrastructure projects.
 
 Media contact
 

@@ -1,5 +1,97 @@
 # Case-Studies
 
+
+---
+
+# https://www.napster.com/case-studies
+
+Source: https://www.napster.com/case-studies
+
+# Case Studies
+
+The latest announcements, press coverage, and media resources for journalists and partners.
+
+Browse by Type
+
+All
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+Clients
+
+June 3, 2026
+
+4 min Read
+
+### How leading sports clubs are powering the future of retail with AI Companions
+
+Partnerships
+
+April 23, 2026
+
+4 min read
+
+### Advancing Education with Napster Learn
+
+Partnerships
+
+April 23, 2026
+
+4 min read
+
+### Leading Results UK Partners with Napster to Scale Coaching
+
+Partnerships
+
+April 22, 2026
+
+3 min read
+
+### AI Use Case Explorer: Streamlining Sales
+
+A centralized portal that eliminated time spent searching for AI success stories
+
+Partnerships
+
+April 22, 2026
+
+4 min read
+
+### Transforming the Paint Selection Experience with AI and Human Expertise
+
+Partnerships
+
+April 22, 2026
+
+5 min read
+
+### Redefining the Omnichannel Experience in the Coatings Industry
+
+**join us**
+
+## **Need more?** **We’re one email away.**
+
+Our PR team responds to all media inquiries within 24 hours. Reach out for any of the following:
+
+Headshots & exec photos
+
+**Video & B-roll**
+
+Interview requests
+
+Quotes & comments
+
+Fact-checking
+
+Embargoed briefings
+
+**press@napster.com**
+
+## **Send an inquiry**
+
+
 ---
 
 # https://www.napster.com/case-studies/advancing-education-with-napster-learn
@@ -7,6 +99,10 @@
 Source: https://www.napster.com/case-studies/advancing-education-with-napster-learn
 
 # Advancing Education with Napster Learn
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
 
 **Download PDF**
 
@@ -65,15 +161,16 @@ April 22, 2026
 
 A centralized portal that eliminated time spent searching for AI success stories
 
-April 23, 2026
+April 22, 2026
 
-### Leading Results UK Partners with Napster to Scale Coaching
+### Redefining the Omnichannel Experience in the Coatings Industry
 
 Media contact
 
 # **Press inquiries.**
 
 Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
 
 ---
 
@@ -84,6 +181,10 @@ Source: https://www.napster.com/case-studies/ai-use-case-explorer-streamlining-s
 # AI Use Case Explorer: Streamlining Sales
 
 A centralized portal that eliminated time spent searching for AI success stories
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
 
 **Download PDF**
 
@@ -128,6 +229,10 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
+April 22, 2026
+
+### Redefining the Omnichannel Experience in the Coatings Industry
+
 April 23, 2026
 
 ### Advancing Education with Napster Learn
@@ -136,15 +241,68 @@ April 23, 2026
 
 ### Leading Results UK Partners with Napster to Scale Coaching
 
-April 22, 2026
+Media contact
 
-### Redefining the Omnichannel Experience in the Coatings Industry
+# **Press inquiries.**
+
+Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/case-studies/how-leading-sports-clubs-are-powering-the-future-of-retail-with-ai-companions
+
+Source: https://www.napster.com/case-studies/how-leading-sports-clubs-are-powering-the-future-of-retail-with-ai-companions
+
+# How leading sports clubs are powering the future of retail with AI Companions
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
+
+###### The Challenge
+
+###### **Overcoming third-party limitations to deliver intelligent, personalized fan experiences at scale.**
+
+Major European clubs like SL Benfica and Fenerbahçe boast some of the most passionate global fanbases, but **they share a common digital challenge:** their traditional 2D e-commerce sites lack the prestige and dynamic energy of their physical stadiums and flagship stores. Furthermore, because the majority of daily fan engagement happens on third-party social media platforms, clubs face a critical data gap.
+
+Without actionable, first-party data, it is nearly impossible to intelligently personalize the fan journey, scale 1:1 interactions, or effectively monetize massive international audiences.
+
+###### The Solution**‍**
+
+###### **Deploying club-owned, 3D retail environments driven by interactive AI Companions.**
+
+To reclaim the digital fan experience, these forward-thinking clubs partnered with Napster to transition from static e-commerce to dynamic, AI-guided commerce natively hosted on their own websites.
+
+Whether stepping into a realistic behind-the-scenes locker room or a premium, high-fidelity retail showroom, global fans can freely navigate these 3D hubs to explore floating displays of the latest kits.
+
+The core of this new ecosystem is driven by **interactive AI Companions**. Through features like "Ask a Player," fans don't just browse—they converse directly with AI-powered digital twins of their favorite athletes. These AI avatars act as personalized shopping concierges, answering club trivia, recommending specific merchandise based on natural conversation, and guiding the purchasing journey.
+
+This strategic pivot transforms passive scrolling into an active, data-rich experience, allowing clubs to scale deeply personalized interactions and capture invaluable first-party data within an environment they fully own.
+
+###### THE BUSINESS IMPACT
+
+* **88%** Uplift in overall sales\*
+* **67%** Increase in new customer acquisition\*
+* **77%** Increase in interactive product clicks\*
+* **300%** Growth in Customer Lifetime Value (CLV)\*
+
+Share article:
+
+also read
+
+## Related Case Studies
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+No items found.
 
 Media contact
 
 # **Press inquiries.**
 
 Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
 
 ---
 
@@ -153,6 +311,10 @@ Journalists and media professionals can contact our team for interviews, informa
 Source: https://www.napster.com/case-studies/leading-results-uk-partners-with-napster-to-scale-coaching
 
 # Leading Results UK Partners with Napster to Scale Coaching
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
 
 **Download PDF**
 
@@ -197,21 +359,20 @@ April 22, 2026
 
 ### Transforming the Paint Selection Experience with AI and Human Expertise
 
-April 22, 2026
-
-### AI Use Case Explorer: Streamlining Sales
-
-A centralized portal that eliminated time spent searching for AI success stories
-
 April 23, 2026
 
 ### Advancing Education with Napster Learn
+
+April 22, 2026
+
+### Redefining the Omnichannel Experience in the Coatings Industry
 
 Media contact
 
 # **Press inquiries.**
 
 Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
 
 ---
 
@@ -220,6 +381,10 @@ Journalists and media professionals can contact our team for interviews, informa
 Source: https://www.napster.com/case-studies/redefining-the-omnichannel-experience-in-the-coatings-industry
 
 # Redefining the Omnichannel Experience in the Coatings Industry
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
 
 **Download PDF**
 
@@ -267,15 +432,15 @@ also read
 
 Stay up to date with the latest platform updates, feature launches, and important news.
 
-April 23, 2026
-
-### Leading Results UK Partners with Napster to Scale Coaching
-
 April 22, 2026
 
 ### AI Use Case Explorer: Streamlining Sales
 
 A centralized portal that eliminated time spent searching for AI success stories
+
+April 23, 2026
+
+### Leading Results UK Partners with Napster to Scale Coaching
 
 April 22, 2026
 
@@ -287,6 +452,7 @@ Media contact
 
 Journalists and media professionals can contact our team for interviews, information, or additional materials.
 
+
 ---
 
 # https://www.napster.com/case-studies/transforming-the-paint-selection-experience-with-ai-and-human-expertise
@@ -294,6 +460,10 @@ Journalists and media professionals can contact our team for interviews, informa
 Source: https://www.napster.com/case-studies/transforming-the-paint-selection-experience-with-ai-and-human-expertise
 
 # Transforming the Paint Selection Experience with AI and Human Expertise
+
+This is some text inside of a div block.
+
+This is some text inside of a div block.
 
 **Download PDF**
 
@@ -349,20 +519,112 @@ Stay up to date with the latest platform updates, feature launches, and importan
 
 April 22, 2026
 
-### AI Use Case Explorer: Streamlining Sales
-
-A centralized portal that eliminated time spent searching for AI success stories
-
-April 23, 2026
-
-### Leading Results UK Partners with Napster to Scale Coaching
+### Redefining the Omnichannel Experience in the Coatings Industry
 
 April 23, 2026
 
 ### Advancing Education with Napster Learn
+
+April 22, 2026
+
+### AI Use Case Explorer: Streamlining Sales
+
+A centralized portal that eliminated time spent searching for AI success stories
 
 Media contact
 
 # **Press inquiries.**
 
 Journalists and media professionals can contact our team for interviews, information, or additional materials.
+
+
+---
+
+# https://www.napster.com/case-study-types/clients
+
+Source: https://www.napster.com/case-study-types/clients
+
+# Clients
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+Clients
+
+June 3, 2026
+
+4 min Read
+
+### How leading sports clubs are powering the future of retail with AI Companions
+
+**join us**
+
+## **The mission** **continues.**
+
+We’re hiring engineers, designers, and operators who believe expertise shouldn’t be locked behind gatekeepers.
+
+**View Open Roles**
+
+Contact Sales
+
+
+---
+
+# https://www.napster.com/case-study-types/partnerships
+
+Source: https://www.napster.com/case-study-types/partnerships
+
+# Partnerships
+
+Stay up to date with the latest platform updates, feature launches, and important news.
+
+Partnerships
+
+April 23, 2026
+
+4 min read
+
+### Advancing Education with Napster Learn
+
+Partnerships
+
+April 23, 2026
+
+4 min read
+
+### Leading Results UK Partners with Napster to Scale Coaching
+
+Partnerships
+
+April 22, 2026
+
+3 min read
+
+### AI Use Case Explorer: Streamlining Sales
+
+A centralized portal that eliminated time spent searching for AI success stories
+
+Partnerships
+
+April 22, 2026
+
+4 min read
+
+### Transforming the Paint Selection Experience with AI and Human Expertise
+
+Partnerships
+
+April 22, 2026
+
+5 min read
+
+### Redefining the Omnichannel Experience in the Coatings Industry
+
+**join us**
+
+## **The mission** **continues.**
+
+We’re hiring engineers, designers, and operators who believe expertise shouldn’t be locked behind gatekeepers.
+
+**View Open Roles**
+
+Contact Sales
